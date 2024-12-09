@@ -11,16 +11,28 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    <!-- {% if author.school %}<p class="author__school">{{ author.school }}</p>{% endif %}
+    {% if author.university %}<p class="author__university">{{ author.university }}</p>{% endif %} -->
   </div>
 
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
-      {% if site.description %}
+      <!-- {% if site.description %}
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
+      {% endif %} -->
+      <!-- <i class="fa fa-fw fa-institution" aria-hidden="true"></i><i class="fa fa-fw" aria-hidden="true"></i> -->
+      {% if author.school %}
+        <a href="https://ac.bit.edu.cn/index.htm">  {{ author.school }} <a href="https://www.bit.edu.cn/">  {{ author.university }}  </a></a>
       {% endif %}
+      <!-- {% if author.university %}
+        <a href="https://www.bit.edu.cn/"> {{ author.university }}  </a>
+      {% endif %} -->
+      <!-- {% if author.office %}
+        <i class="fa fa-fw fa-institution" aria-hidden="true"></i> {{ author.office }}
+      {% endif %} -->
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
