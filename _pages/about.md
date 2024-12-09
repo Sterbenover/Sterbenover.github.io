@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='-about-me'></span>
 
-<!-- # 🔥 Research Interests -->
-
 Lü Maobin is a professor at the School of Automation, Beijing Institute of Technology, and a doctoral supervisor. He is a recipient of the Youth Program of the 16th batch of the "Overseas High-level Talent Introduction Program" in China. His research mainly focuses on output regulation of complex dynamic systems, distributed estimation, cooperative control and game theory, and unmanned system control. He has published more than ten first-author papers in top-tier journals in the field of systems and control, such as IEEE Transactions on Automatic Control (IEEE TAC) and Automatica. Currently, he is leading projects such as the National Key Technology R&D Program for Next-generation Artificial Intelligence, the General Program of the National Natural Science Foundation of China, and key projects funded by the Beijing Natural Science Foundation-Xiaomi Innovation Joint Fund.
 
 His research achievements have won several prestigious awards, including the IEEE ICCA Best Paper Award, the Zhang Siying (CCDC) Outstanding Young Paper Award at the Chinese Control and Decision Conference, the Shimemura Young Author Award at the Asian Control Conference, and the Best Paper Award at the World Congress on Intelligent Control and Automation (WCICA). He has also mentored students who have won multiple innovation and technology competition awards, such as the championship in the UAV Intelligent Perception Technology Competition, the grand prize in the International Smart Unmanned Systems Application Challenge (Flight Obstacle Avoidance) and the first prize in the Air-ground Coordination competition, the grand prize in the Capital Challenge Cup, and the runner-up in the RoboMaster Mech Master AI Challenge Elite Competition.
@@ -29,7 +27,6 @@ He currently serves as the Deputy Secretary-General of the Youth Work Committee 
 
 <span class='anchor' id='-personal-information'></span>
 
-<!-- # 📖 Personal Information -->
 # <i class="fa fa-vcard-o" aria-hidden="true"></i> Personal Information
 - *Nov.2020 - Now*, Professor, Control Science and Engineering, Beijing Institute of Technology.
 - *Sep.2018-Nov.2020*, Associate Professor, Control Science and Engineering, Beijing Institute of Technology.
@@ -44,14 +41,20 @@ He currently serves as the Deputy Secretary-General of the Youth Work Committee 
 - Networked Control: Robot Systems, Vehicles, Spacecrafts
 - Output Regulation: Linear Systems, Nonliear Systems, Time-Delay Systems
 
-<span class='anchor' id='-research-awards'></span>
+<span class='anchor' id='-awards'></span>
 
-# 🎖 Research Awards
+# 🎖 Research and Competition Awards
 - Best Paper Award for ICCA, 2024
 - Best Paper Award for WCICA, 2018
 - Zhang Si-Ying (CCDC) Outstanding Youth Paper Award, 2018
 - Shimemura Young Author Prize for ASCC, 2017
 - Hong Kong Reaching Out Award 2014-2015, 2015
+- "New Yangtze River Cup" 2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4)
+- "New Yangtze River Cup" 2024 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Champion  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4)
+- "Zhaoying Cup" 2023 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4)
+- "Zhaoying Cup" 2023 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Runner-up  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E4%BA%9A%E5%86%9B.mp4)
+- ROBOMASTER Planning and Control Special Competition Champion  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROBOMASTER%E8%A7%84%E5%88%92%E6%8E%A7%E5%88%B6%E4%B8%93%E9%A1%B9%E8%B5%9B%E5%86%A0%E5%86%9B.mp4)
+- Robomaster Elite Competition Runner-up  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/Robomaster%E7%B2%BE%E8%8B%B1%E8%B5%9B%E4%BA%9A%E5%86%9B.mp4)
 
 <span class='anchor' id='-publications'></span>
 
@@ -317,23 +320,7 @@ Z. Bao, **M. Lu**, F. Deng
 <li><p>Control and Industrial Automation, 2012-2013 fall</p>
 </li>
 <li><p>Modern Control Systems Analysis and Design, 2012-2013 fall
-<!-- <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br /> -->
+
 </p>
 </li>
 </ul>
@@ -345,7 +332,7 @@ Z. Bao, **M. Lu**, F. Deng
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<p><a href="https://github.com/maobinlu/GroupMembers">Detailed Information</a></p>
+<!-- <p><a href="https://github.com/maobinlu/GroupMembers">Detailed Information</a></p> -->
 <h2>Current Members</h2>
 <h3>PhD Students</h3>
 <div style="display: flex;">
@@ -375,30 +362,7 @@ Z. Bao, **M. Lu**, F. Deng
 
 </div>
 
-<!-- <ul>
-<li><p>Haizhou Yang (2020-2026)</p>
-</li>
-<li><p>Lupeng Liu (2021-2025)</p>
-</li>
-<li><p>Lan Zhang (2021-2025)</p>
-</li>
-<li><p>Faqi Wang (2022-2026)</p>
-</li>
-<li><p>Geyuan Liu (2022-2028)</p>
-</li>
-<li><p>Qiang Wang (2023-2027)</p>
-</li>
-<li><p>Bowei Xie (2023-2027)</p>
-</li>
-<li><p>Xianzhi Yang (2023-2029)</p>
-</li>
-<li><p>Guanghui Sun (2024-2028)</p>
-</li>
-<li><p>Fangzhe Xu (2024-2029)</p>
-</li>
-<li><p>Xinrui Xie (2024-2030)</p>
-</li>
-</ul> -->
+
 <h3>Master Students</h3>
 
 <div style="display: flex;">
@@ -426,28 +390,7 @@ Z. Bao, **M. Lu**, F. Deng
   </div>
 
 </div>
-<!-- <ul>
-<li><p>Jianyi Cai (2022-2025)</p>
-</li>
-<li><p>Yulong Lin (2022-2025)</p>
-</li>
-<li><p>Yufan Lu (2022-2025)</p>
-</li>
-<li><p>Yuhan Bao (2023-2026)</p>
-</li>
-<li><p>Hongzeng Li (2023-2026)</p>
-</li>
-<li><p>Qilin Yan (2023-2026)</p>
-</li>
-<li><p>Fujian Sun (2024-2027)</p>
-</li>
-<li><p>Zelong Xie (2024-2027)</p>
-</li>
-<li><p>Shiduo Wang (2024-2027)</p>
-</li>
-<li><p>Wei Nie (2024-2027)</p>
-</li>
-</ul> -->
+
 <h2>Graduated Members</h2>
 <h3>PhD Students</h3>
 <ul>
@@ -465,9 +408,6 @@ Z. Bao, **M. Lu**, F. Deng
 <li><p>Juan Dong (2024)</p>
 </li>
 </ul>
-<!-- <p><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p> -->
-
-
 
 <span class='anchor' id='-service'></span>
 
