@@ -43,18 +43,37 @@ He currently serves as the Deputy Secretary-General of the Youth Work Committee 
 
 <span class='anchor' id='-awards'></span>
 
-# 🎖 Research and Competition Awards
+# 🎖 Awards
+
+<span class='anchor' id='-research-awards'></span>
+ 
+<h2>Research Awards</h2>
+
 - Best Paper Award for ICCA, 2024
 - Best Paper Award for WCICA, 2018
 - Zhang Si-Ying (CCDC) Outstanding Youth Paper Award, 2018
 - Shimemura Young Author Prize for ASCC, 2017
 - Hong Kong Reaching Out Award 2014-2015, 2015
+
+
+
+<div class='paper-box'><div class='full-width-box'><div><img src='images/research_awards.jpg' alt="sym" width="100%"></div></div></div>
+
+<span class='anchor' id='-competition-awards'></span>
+
+<h2>Competition Awards</h2>
+
 - "New Yangtze River Cup" 2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4)
 - "New Yangtze River Cup" 2024 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Champion  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4)
 - "Zhaoying Cup" 2023 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4)
 - "Zhaoying Cup" 2023 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Runner-up  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E4%BA%9A%E5%86%9B.mp4)
 - ROBOMASTER Planning and Control Special Competition Champion  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROBOMASTER%E8%A7%84%E5%88%92%E6%8E%A7%E5%88%B6%E4%B8%93%E9%A1%B9%E8%B5%9B%E5%86%A0%E5%86%9B.mp4)
 - Robomaster Elite Competition Runner-up  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/Robomaster%E7%B2%BE%E8%8B%B1%E8%B5%9B%E4%BA%9A%E5%86%9B.mp4)
+- 2023 "Challenge Cup" Capital University Students' Extracurricular Academic and Scientific Works Provincial Competition Champion  [[Video]]()
+- 18th "Challenge Cup" National College Students' Extracurricular Academic and Scientific Works Competition Runner-up
+
+
+<div class='paper-box'><div class='full-width-box'><div><img src='images/competition_awards.jpg' alt="sym" width="100%"></div></div></div>
 
 <span class='anchor' id='-publications'></span>
 
@@ -282,6 +301,7 @@ Z. Bao, **M. Lu**, F. Deng
 <span class='anchor' id='-pending-patents-and-software'></span>
 
 <h2>Pending Patents and Software</h2>
+<h3>Patents</h3>
 <ol>
 <li><p>S. Yuan, <b>M. Lu</b> and X. Liu, &ldquo;Topology optimization-based cobweb-like interlayer rib plate composite structure design method,&rdquo; <i>National Inventing Patents</i>, China, PN: CN101980222B, issued Dec. 2013.</p>
 </li>
@@ -289,7 +309,52 @@ Z. Bao, **M. Lu**, F. Deng
 </li>
 <li><p>S. Yuan, Z. Zhan, and <b>M. Lu</b>, &ldquo;Dynamic property scaling type model researching method for large machine tool,&rdquo; <i>National Inventing Patents</i>, PN: CN102184303A, issued Sep. 2011.</p>
 </li>
+<li><p><b>M. Lu</b>, X. He, F. Deng, J. Chen, B. Xie, J. Dong and G. Liu, &ldquo;A multi-robot serial-to-WIFI communication and collaborative motion control method,&rdquo; <i>National Inventing Patents</i>, PN: CN115026811A, issued Sep. 2022.</p>
+</li>
+<li><p><b>M. Lu</b>, X. He, F. Deng, J. Chen, B. Xie, J. Dong and G. Liu, &ldquo;Ros-based multi-robot distributed collaborative control method and system,&rdquo; <i>National Inventing Patents</i>, PN: CN115145264A, issued Oct. 2022.</p>
+</li>
+<li><p><b>M. Lu</b>, Q. Wang, M. Huang, J. Cai, C. Gao, F. Deng and J. Chen, &ldquo;Embedded-based telephoto lens autofocus system and method,&rdquo; <i>National Inventing Patents</i>, PN: CN115980965A, issued Apr. 2023.</p>
+</li>
+<li><p><b>M. Lu</b>, Z. Bao, L. Zhang, H. Yang, F. Deng and J. Chen, &ldquo;A flexible spacecraft attitude inner-model control method under external disturbances,&rdquo; <i>National Inventing Patents</i>, PN: CN115840358A, issued Mar. 2023.</p>
+</li>
+<li><p><b>M. Lu</b>, B. Xie, J. Dong, G. Sun, G. Liu, F. Deng and J. Chen, &ldquo;A desktop-level six-degree-of-freedom robotic arm structure,&rdquo; <i>National Inventing Patents</i>, PN: CN115890644A, issued Apr. 2023.</p>
+</li>
+<li><p><b>M. Lu</b>, G. Liu, B. Xie, J. Dong, X. He, G. Sun, F. Deng and J. Chen, &ldquo;A stepper motor position closed-loop control system and method,&rdquo; <i>National Inventing Patents</i>, PN: CN116015141A, issued Apr. 2023.</p>
+</li>
+<li><p><b>M. Lu</b>, B. Xie, J. Dong, G. Liu, X. Yang, F. Deng and J. Chen, &ldquo;A robot communication architecture and communication method based on serial communication and bus communication,&rdquo; <i>National Inventing Patents</i>, PN: ZL202310042145.7, issued May. 2023.</p>
+</li>
+<li><p><b>M. Lu</b>, J. Dong, Y. Lin, B. Xie, G. Liu, F. Deng and J. Chen, &ldquo;A stepper motor current output control system and method,&rdquo; <i>National Inventing Patents</i>, PN: CN116111900A, issued May. 2023.</p>
+</li>
+<li><p><b>M. Lu</b>, G. Liu, B. Xie, J. Dong, X. He, Y. Lin, G. Sun, F. Deng and J. Chen, &ldquo;A hybrid stepper motor closed-loop driver,&rdquo; <i>National Inventing Patents</i>, PN: CN116169910A, issued May. 2023.</p>
+</li>
+<li><p><b>M. Lu</b>, X. Yang, Y. Lin, G. Liu, J. Dong, B. Xie, F. Deng and J. Chen, &ldquo;A 42mm hybrid stepper motor position closed-loop driver,&rdquo; <i>National Inventing Patents</i>, PN: CN116683818A, issued Sep. 2023.</p>
+</li>
+<li><p><b>M. Lu</b>, B. Xie, G. Liu, J. Dong, F. Deng and J. Chen, &ldquo;A two-phase four-wire hybrid stepper motor closed-loop vector driver,&rdquo; <i>National Inventing Patents</i>, PN: CN116743016A, issued Sep. 2023.</p>
+</li>
+<li><p><b>M. Lu</b>, G. Liu, B. Xie, J. Dong, G. Sun, F. Deng and J. Chen, &ldquo;A modular assembly-supported six-degree-of-freedom robotic arm structure,&rdquo; <i>National Inventing Patents</i>, PN: CN116766170A, issued Sep. 2023.</p>
+</li>
+<li><p><b>M. Lu</b>, G. Sun, B. Xie, G. Liu, F. Deng and J. Chen, &ldquo;A desktop-level high-load four-degree-of-freedom robotic arm structure,&rdquo; <i>National Inventing Patents</i>, PN: CN116968081A, issued Oct. 2023.</p>
+</li>
+<li><p><b>M. Lu</b>, J. Dong, B. Xie, G. Liu, X. He , F. Deng and J. Chen, &ldquo;Stepper motor trapezoidal segment position tracking control system and method,&rdquo; <i>National Inventing Patents</i>, PN: CN117013908A, issued Nov. 2023.</p>
+</li>
+<li><p><b>M. Lu</b>, Y. Lu, Q. Wang, J. Cai, Y. Lin, Y. Bao, F. Wang, F. Deng, C. Chen, H. Fu and J. Chen, &ldquo;A ground navigation map construction method based on drone perspective,&rdquo; <i>National Inventing Patents</i>, filed Nov. 2023.</p>
+</li>
+<li><p><b>M. Lu</b>, J. Wu, L. Zhang, F. Deng and J. Chen, &ldquo;An event-triggered system regulation control method under network attacks,&rdquo; <i>National Inventing Patents</i>, filed Dec. 2023.</p>
+</li>
+<li><p><b>M. Lu</b>, Y. Lu, Q. Wang, Y. Lin, J. Cai, Y. Bao, F. Wang, F. Deng and J. Chen, &ldquo;A ground navigation map construction method based on drone perspective,&rdquo; <i>National Inventing Patents</i>, filed Dec. 2023.</p>
+</li>
+</ol>
+<h3>Software</h3>
+<ol>
 <li><p>S. Yuan and <b>M. Lu</b>, &ldquo;The analysis and optimization system for motorized spindle of NC machine tools,&rdquo; <i>Software Copyright</i>, China, register No.:2010SR027562.</p>
+</li>
+<li><p><b>M. Lu</b>, J. Dong, B. Xie, G. Liu, F. Deng and J. Chen &ldquo;An ESP32-based CAN bus communication system,&rdquo; <i>Software Copyright</i>, China, register No.:2023SR0372311, granted Mar. 2023.</p>
+</li>
+<li><p><b>M. Lu</b>, J. Dong, G. Liu, B. Xie, F. Deng and J. Chen &ldquo;A PaddlePaddle-based robotic vision classification system,&rdquo; <i>Software Copyright</i>, China, register No.:2023SR0372459, granted Mar. 2023.</p>
+</li>
+<li><p><b>M. Lu</b>, G. Liu, X. He, B. Xie, J. Dong, G. Sun, F. Deng and J. Chen &ldquo;A stepper motor position detection software based on a measuring encoder,&rdquo; <i>Software Copyright</i>, China, register No.:2023SR0375421, granted Mar. 2023.</p>
+</li>
+<li><p><b>M. Lu</b>, B. Xie, J. Dong, G. Liu, X. Yang, F. Deng and J. Chen &ldquo;A JSON-based communication system between ROS and ESP32,&rdquo; <i>Software Copyright</i>, China, register No.:2023SR0375420, granted Mar. 2023.</p>
 </li>
 </ol>
 
@@ -424,6 +489,8 @@ Z. Bao, **M. Lu**, F. Deng
 # 💻 Service
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
+<span class='anchor' id='-research-projects-and-grants'></span>
+
 <h2>Research Projects and Grants</h2>
 <ul>
 <li><p>Principal Investigator,&ldquo;Robust cooperative output regulation and its application&rdquo;,National Natural Science Foundation of China,2020.01-2023.12</p>
@@ -437,6 +504,9 @@ Z. Bao, **M. Lu**, F. Deng
 <li><p>Participant,&ldquo;Cooperative output regulation of nonlinear multi-agent systems and its applications&rdquo;,National Natural Science Foundation of China,2018.01-2021.12</p>
 </li>
 </ul>
+
+<span class='anchor' id='-professional-activities'></span>
+
 <h2>Professional Activities</h2>
 <h3>International Program Committee</h3>
 <ul>
@@ -482,6 +552,9 @@ Z. Bao, **M. Lu**, F. Deng
 <li><p>Journal of Control Theory and Applications</p>
 </li>
 </ul>
+
+<span class='anchor' id='-conference-presentations'></span>
+
 <h2>Conference Presentations</h2>
 <ul>
 <li><p>The 2019 IEEE International Conference on Control &amp; Automation, Edinburgh, Scotland, Jul. 16–19, 2019 (20 mins)</p>

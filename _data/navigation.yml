@@ -11,8 +11,13 @@ main:
   - title: "Research Interests"
     url: "/#-research-interests"
 
-  - title: "Research and Competition Awards"
+  - title: "Awards"
     url: "/#-awards"
+    submenus:
+      - title: "Research Awards"
+        url: "/#-research-awards"
+      - title: "Competition Awards"
+        url: "/#-competition-awards"
 
   - title: "Publications"
     url: "/#-publications"
@@ -34,6 +39,12 @@ main:
 
   - title: "Service"
     url: "/#-service"
-
+    submenus:
+      - title: "Research Projects and Grants"
+        url: "/#-research-projects-and-grants"
+      - title: "Professional Activities"
+        url: "/#-professional-activities"
+      - title: "Conference Presentations"
+        url: "/#-conference-presentations"
   # - title: "Internships"
   #   url: "/#-internships"

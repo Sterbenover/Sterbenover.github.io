@@ -93,7 +93,29 @@
                   <li><a href="#-thesis">Thesis</a></li>
                 </ul>
               </li>
-            {% else %}
+            {% endif %}
+            {% if link.title == 'Awards' %}
+              <li class="masthead__menu-item masthead__menu-item--has-dropdown">
+                <a href="#-awards">{{ link.title }}</a>
+                <!-- 下拉菜单 -->
+                <ul class="dropdown-menu">
+                  <li><a href="#-research-awards">Research Awards</a></li>
+                  <li><a href="#-competition-awards">Competition Awards</a></li>
+                </ul>
+              </li>
+            {% endif %}
+            {% if link.title == 'Service' %}
+              <li class="masthead__menu-item masthead__menu-item--has-dropdown">
+                <a href="#-service">{{ link.title }}</a>
+                <!-- 下拉菜单 -->
+                <ul class="dropdown-menu">
+                  <li><a href="#-research-projects-and-grants">Research Projects and Grants</a></li>
+                  <li><a href="#-professional-activities">Professional Activities</a></li>
+                  <li><a href="#-conference-presentations">Conference Presentations</a></li>
+                </ul>
+              </li>
+            {% endif %}            
+            {% if link.title != 'Publications' and link.title != 'Awards' and link.title != 'Service' %}
               <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
             {% endif %}
           {% endfor %}
