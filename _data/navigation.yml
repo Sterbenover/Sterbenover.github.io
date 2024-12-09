@@ -16,6 +16,15 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
+    submenus:
+      - title: "Journal Papers"
+        url: "/#-journal-papers"
+      - title: "Conference Papers"
+        url: "/#-conference-papers"
+      - title: "Pending Patents and Software"
+        url: "/#-pending-patents-and-software"
+      - title: "Thesis"
+        url: "/#-thesis" 
 
   - title: "Teaching"
     url: "/#-teaching"

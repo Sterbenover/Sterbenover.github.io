@@ -60,6 +60,8 @@ He currently serves as the Deputy Secretary-General of the Youth Work Committee 
 
 # 📝 Publications 
 
+<span class='anchor' id='-journal-papers'></span>
+
 <h2>Journal Papers</h2>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='images/1-450_300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -192,6 +194,8 @@ X. He, **M. Lu** |
 </li>
 </ol>
 
+<span class='anchor' id='-conference-papers'></span>
+
 <h2>Conference Papers</h2>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCA 2024(Best Paper Award)</div><img src='images/6-450_300.jpg' alt="sym" width="100%"></div></div>
@@ -274,6 +278,9 @@ Z. Bao, **M. Lu**, F. Deng
 <li><p>Q. Liu, X. Liu, <b>M. Lu</b> and W. Wu, &ldquo;Dynamic analysis on linear motor drive unit for NC machine tool based on multi-modes motion,&rdquo; in <i>Proceedings of the 2010 International Conference on Computer,Mechatronics, Control and Electronic Engineering</i>, Changchun, China, Aug. 24–26, 2010, pp. 460 – 463, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FCMCE.2010.5610103&btnG=">DOI:10.1109/CMCE.2010.5610103</a>.</p>
 </li>
 </ol>
+
+<span class='anchor' id='-pending-patents-and-software'></span>
+
 <h2>Pending Patents and Software</h2>
 <ol>
 <li><p>S. Yuan, <b>M. Lu</b> and X. Liu, &ldquo;Topology optimization-based cobweb-like interlayer rib plate composite structure design method,&rdquo; <i>National Inventing Patents</i>, China, PN: CN101980222B, issued Dec. 2013.</p>
@@ -285,6 +292,9 @@ Z. Bao, **M. Lu**, F. Deng
 <li><p>S. Yuan and <b>M. Lu</b>, &ldquo;The analysis and optimization system for motorized spindle of NC machine tools,&rdquo; <i>Software Copyright</i>, China, register No.:2010SR027562.</p>
 </li>
 </ol>
+
+<span class='anchor' id='-thesis'></span>
+
 <h2>Thesis</h2>
 <ol>
 <li><p><b>M. Lu</b>, &ldquo;The Output Regulation of Linear Time-Delay Systems and Complex Nonlinear Systems,&rdquo; Ph.D. Thesis, Department of Mechanical and Automation Engineering, CUHK, Hong Kong, China, Aug. 2015.</p>
