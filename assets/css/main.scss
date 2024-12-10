@@ -69,13 +69,13 @@
     
     .full-width-box  {
         width: 100%; /* 确保容器宽度占满 */
-      }
+    }
       
     .full-width-box img {
         width: 100%; /* 图片宽度占满 */
         height: auto; /* 保持宽高比 */
         display: block; /* 避免图片周围的内联元素间隙 */
-      }
+    }
 
     @include breakpoint($medium) {
         .paper-box-image{
