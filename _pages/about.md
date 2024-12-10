@@ -86,7 +86,9 @@ Team Members: J. Cai, W. Kong, Y. Bao, H. Li, Y. Liu and Q. Wang
 
 Advisor: **M. Lu**, C. Wang and F. Deng
 
-[[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4)
+<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a>
+
+<!-- [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4) -->
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 </div>
@@ -101,7 +103,8 @@ Team Members: Y. Lin, Z. Du, Y. Lu, Y. Bao, F. Wang and Q. Wang
 
 Advisor: **M. Lu**, C. Chen and F. Deng
 
-[[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4)
+<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a>
+<!-- [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4) -->
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 </div>
@@ -116,17 +119,23 @@ Team Members: B. Xie, G. Liu, J. Dong, G. Sun and X. Yang
 
 Advisor: **M. Lu**
 
-[[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4)
+<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4" class="download-btn" download>Video</a>
+
+<!-- [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4) -->
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 </div>
 </div>
 <!-- - "New Yangtze River Cup" 2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4)
 - "New Yangtze River Cup" 2024 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Champion  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4) -->
-- "Zhaoying Cup" 2023 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4)
-- "Zhaoying Cup" 2023 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Runner-up  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E4%BA%9A%E5%86%9B.mp4)
-- ROBOMASTER Planning and Control Special Competition Champion  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROBOMASTER%E8%A7%84%E5%88%92%E6%8E%A7%E5%88%B6%E4%B8%93%E9%A1%B9%E8%B5%9B%E5%86%A0%E5%86%9B.mp4)
-- Robomaster Elite Competition Runner-up  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/Robomaster%E7%B2%BE%E8%8B%B1%E8%B5%9B%E4%BA%9A%E5%86%9B.mp4)
+- "Zhaoying Cup" 2023 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> 
+<!-- [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4) -->
+- "Zhaoying Cup" 2023 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Runner-up  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E4%BA%9A%E5%86%9B.mp4" class="download-btn" download>Video</a> 
+<!-- [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E4%BA%9A%E5%86%9B.mp4) -->
+- ROBOMASTER Planning and Control Special Competition Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROBOMASTER%E8%A7%84%E5%88%92%E6%8E%A7%E5%88%B6%E4%B8%93%E9%A1%B9%E8%B5%9B%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> 
+
+<!-- [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROBOMASTER%E8%A7%84%E5%88%92%E6%8E%A7%E5%88%B6%E4%B8%93%E9%A1%B9%E8%B5%9B%E5%86%A0%E5%86%9B.mp4)
+- Robomaster Elite Competition Runner-up  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/Robomaster%E7%B2%BE%E8%8B%B1%E8%B5%9B%E4%BA%9A%E5%86%9B.mp4) -->
 <!-- - 2023 "Challenge Cup" Capital University Students' Extracurricular Academic and Scientific Works Provincial Competition Champion  -->
 - 18th "Challenge Cup" National College Students' Extracurricular Academic and Scientific Works Competition Runner-up
 
@@ -146,7 +155,8 @@ Advisor: **M. Lu**
 [Robust distributed nash equilibrium seeking subject to communication constraints](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2024.3476195&oq=)
 
 L. Liu, **M. Lu**, S. Wang, F. Deng and J. Chen | 
-[[Video]](https://github.com/maobinlu/Robot-Experiment/raw/refs/heads/main/Mobile%20robots%20experiment%20for%20a%20connectivity%20control%20game.mp4)
+<a href="https://github.com/maobinlu/Robot-Experiment/raw/refs/heads/main/Mobile%20robots%20experiment%20for%20a%20connectivity%20control%20game.mp4" class="download-btn" download>Video</a>
+<!-- [[Video]](https://github.com/maobinlu/Robot-Experiment/raw/refs/heads/main/Mobile%20robots%20experiment%20for%20a%20connectivity%20control%20game.mp4) -->
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - This paper addresses the robust distributed Nash equilibrium seeking problem of N -player games under switching networks and communication delays. The salient feature of this work is that the switching communication networks can be uniformly strongly connected, and the communication delays are allowed to be arbitrarily unknown, time-varying and bounded. We illustrate our proposed approach by its application to practical motion control of mobile robots with some experiments. 
 
@@ -172,7 +182,8 @@ L. Zhang, **M. Lu**, F. Deng and J. Chen
 [Output feedback control of uncertain Euler–Lagrange systems by internal model](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2023.111189&btnG=)
 
 X. He, **M. Lu** | 
-[[Video]](https://github.com/maobinlu/ROS-simuf/raw/refs/heads/main/ROS-Simuf.mp4)
+<a href="https://github.com/maobinlu/ROS-simuf/raw/refs/heads/main/ROS-Simuf.mp4" class="download-btn" download>Video</a>
+<!-- [[Video]](https://github.com/maobinlu/ROS-simuf/raw/refs/heads/main/ROS-Simuf.mp4) -->
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - In this paper, we investigate the trajectory tracking control problem of a class of uncertain Euler–Lagrange systems subject to disturbances. We propose a class of dynamic output feedback control laws which depends on the tracking error of the position and that of the velocity. Specifically, by characterizing the reference trajectory and the disturbances with an exosystem, we design an internal model to learn the desired feedforward input such that the reference trajectory can be tracked in spite of unknown system parameters and disturbances. The effectiveness of the proposed approach is illustrated by its application to trajectory tracking control of a three-link cylindrical robot arm. 
 
