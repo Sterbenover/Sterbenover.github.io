@@ -163,18 +163,18 @@ L. Liu, **M. Lu**, S. Wang, F. Deng and J. Chen |
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='images/2-450_300.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='images/2-450_300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Distributed state estimation under jointly connected switching networks: Continuous-time linear systems and discrete-time linear systems](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2023.3279210&btnG=)
 
 L. Zhang, **M. Lu**, F. Deng and J. Chen
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
 - In this article, we address the distributed state estimation problem for both continuous-time linear time-invariant (LTI) systems and discrete-time LTI systems under switching networks. The observed system is jointly observable, i.e., each agent can only access a part of the measurement output of the observed system and cannot recover the full state by itself. The full state estimation has to be achieved by network communication of neighboring agents. In contrast to existing works, the salient feature of this work is that the developed approach can deal with jointly connected switching networks and thus is more resilient to unreliable communication.  
 
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automatica 2023</div><img src='images/3-450_300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -190,40 +190,37 @@ X. He, **M. Lu** |
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2022</div><img src='images/4-450_300.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2022</div><img src='images/4-450_300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A sensory feedback based discrete distributed observer to cooperative output regulation](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2022.3162545&btnG=)
 
 **M. Lu**
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - In some practical applications, only the sensor network can be established among all agents. To handle such cases, we propose a sensory feedback-based discrete distributed observer, which depends on the relative output of neighboring agents. In contrast to existing results, the design of the discrete distributed observer and cooperative output regulation analysis should be conducted simultaneously. Resorting to the small-gain theorem, we develop a small-gain condition-based approach and a low-gain-based approach, respectively. By these two approaches, we demonstrate that the discrete distributed observer holds and the cooperative output regulation problem of heterogeneous discrete-time linear multiagent systems can be solved. 
 
 </div>
-</div>
+</div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2020</div><img src='images/5-450_300.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2020</div><img src='images/5-450_300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Consensus of heterogeneous second-order nonlinear uncertain multi-agent systems under switching networks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A10.1109%2FTAC.2020.3019737&btnG=)
 
 **M. Lu**, L. Liu
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - The consensus problem of heterogeneous second-order nonlinear uncertain multiagent systems under switching networks is addressed by a distributed control approach. The network communication of all systems is subject to arbitrarily bounded and nonuniform time-varying delays. Based on the internal model principle, a nonlinear distributed dynamic controller is developed to solve the problem. By means of Lyapunov analysis, consensus of heterogeneous second-order nonlinear multiagent systems is achieved in the presence of system uncertainties, disturbances, and uniformly connected topologies as well as arbitrarily bounded and nonuniform time-varying communication delays.
 
 </div>
-</div>
-<!-- [This paper addresses the robust distributed Nash equilibrium seeking problem of N -player games under switching networks and communication delays. The salient feature of this work is that the switching communication networks can be uniformly strongly connected, and the communication delays are allowed to be arbitrarily unknown, time-varying and bounded. To solve the problem, we construct a distributed estimator for each player to estimate all players' strategies through unreliable communication networks. Based on the gradient play technique, we design a distributed Nash equilibrium seeking law. Then, we obtain the closed-loop system, which is an interconnected system of a nonlinear subsystem and a linear time-delay subsystem. By constructing the Lyapunov-Krasovskii functional, and designing the controller parameter in the sense of the small gain theorem, we achieve robust Nash equilibrium seeking asymptotically in spite of unreliable communication networks. Finally, we illustrate our proposed approach by its application to practical motion control of mobile robots with some experiments.](https://github.com), A, B, C, **CVPR 2020** -->
+</div> -->
 
 <ol>
 <!-- <li><p>L. Liu, <b>M. Lu</b>*, S. Wang, F. Deng and J. Chen, &ldquo;Robust distributed nash equilibrium seeking subject to communication constraints,&rdquo; <i>IEEE Transactions on Automatic Control</i>, <a href="https://ieeexplore.ieee.org/abstract/document/10707180"> </a> DOI:10.1109/TAC.2024.3476195.</p>
 </li> -->
 <li><p>Z. Bao, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Attitude tracking of uncertain flexible spacecraft systems subject to unknown external disturbances,&rdquo; <i>arXiv e-prints 2024</i>, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+DOI%3A10.48550%2FarXiv.2403.12542&btnG=">DOI:10.48550/arXiv.2403.12542</a>.</p>
 </li>
-<!-- <li><p>L. Zhang, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Distributed state estimation under jointly connected switching networks: Continuous-time linear systems and discrete-time linear systems,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 69, no. 2, pp. 1104-1111, Feb. 2024, DOI:10.1109/TAC.2023.3279210. </p>
-</li> -->
+<li><p>L. Zhang, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Distributed state estimation under jointly connected switching networks: Continuous-time linear systems and discrete-time linear systems,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 69, no. 2, pp. 1104-1111, Feb. 2024, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A10.1109%2FTAC.2023.3279210&btnG=">DOI:10.1109/TAC.2023.3279210</a>.</p>
+</li>
 <!-- <li><p>X. He and  <b>M. Lu</b>*, &ldquo;Output feedback control of uncertain Euler–Lagrange systems by internal model,&rdquo; <i>Automatica</i>, vol. 156, Oct. 2023, DOI:10.1016/j.automatica.2023.111189.</p>
 </li> -->
 <li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, “Event-triggered cooperative robust output regulation of minimum-phase linear uncertain multi-agent systems,” <i>International Journal of Robust and Nonlinear Control</i>, vol. 34, no. 11, pp. 7390-7405, Jul. 2024, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1002%2Frnc.7349&btnG=">DOI:10.1002/rnc.7349</a>.</p>
@@ -232,16 +229,16 @@ X. He, **M. Lu** |
 </li>
 <li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Cooperative robust output regulation of linear uncertain multi-agent systems: A dynamic event-triggered approach,&rdquo; <i>International Journal of Robust and Nonlinear Control</i>, vol. 33, no. 18, pp. 11538-11552, 2023, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A10.1002%2Frnc.6957&btnG=">DOI:10.1002/rnc.6957</a>. </p>
 </li>
-<!-- <li><p><b>M. Lu</b>, &ldquo;A sensory feedback based discrete distributed observer to cooperative output regulation,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 67, no. 9, pp. 4762-4769, Sept. 2022, DOI:10.1109/TAC.2022.3162545.</p>
-</li> -->
+<li><p><b>M. Lu</b>, &ldquo;A sensory feedback based discrete distributed observer to cooperative output regulation,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 67, no. 9, pp. 4762-4769, Sept. 2022, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A10.1109%2FTAC.2022.3162545&btnG=">DOI:10.1109/TAC.2022.3162545</a>.</p>
+</li>
 <li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Robust output regulation of linear uncertain systems by dynamic event-triggered output feedback control,&rdquo; <i>IEEE Transactions on Cybernetics</i>, vol. 53, no. 11, pp. 7333-7341, Nov. 2023, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTCYB.2023.3235731&btnG=">DOI:10.1109/TCYB.2023.3235731</a>.</p>
 </li>
 <li><p>L. Liang, F. Deng, J. Wang, <b>M. Lu</b> and J. Chen, &ldquo;A reconnaissance penetration game with territorial-constrained defender,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 67, no. 11, pp. 6295-6302, Nov. 2022, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2022.3183034&btnG=">DOI:10.1109/TAC.2022.3183034</a>.</p>
 </li>
 <li><p><b>M. Lu</b> and L. Liu, &ldquo;A low gain approach to output consensus of networked heterogeneous linear multi-agent systems,&rdquo; <i>SIAM Journal on Control and Optimization</i>, vol. 59,no. 6,pp. 4295-4313, Nov. 2021, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI.org%2F10.1137%2F19M1296458&btnG=">DOI.org/10.1137/19M1296458</a>.</p>
 </li>
-<!-- <li><p><b>M. Lu</b> and L. Liu, &ldquo;Consensus of heterogeneous second-order nonlinear uncertain multi-agent systems under switching networks,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 66, no. 7, pp. 3331-3338, July 2021, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A10.1109%2FTAC.2020.3019737&btnG=">DOI:10.1109/TAC.2020.3019737</a>.</p>
-</li> -->
+<li><p><b>M. Lu</b> and L. Liu, &ldquo;Consensus of heterogeneous second-order nonlinear uncertain multi-agent systems under switching networks,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 66, no. 7, pp. 3331-3338, July 2021, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A10.1109%2FTAC.2020.3019737&btnG=">DOI:10.1109/TAC.2020.3019737</a>.</p>
+</li>
 <li><p><b>M. Lu</b> and L. Liu, &ldquo;Robust synchronization control of switched networked Euler–Lagrange systems,&rdquo; <i>IEEE Transactions on Cybernetics</i>, vol. 52, no. 7, pp. 6834-6842, July 2022, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTCYB.2020.3031009&btnG=">DOI:10.1109/TCYB.2020.3031009</a>.</p>
 </li>
 <li><p><b>M. Lu</b> and L. Liu, &ldquo;Quantized output regulation of minimum-phase linear uncertain systems,&rdquo; <i>International Journal of Robust and Nonlinear Control</i>, vol. 30, no. 17, pp. 7074 – 7088, Feb. 2020, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1002%2Frnc.5157&btnG=">DOI:10.1002/rnc.5157</a>.</p>
