@@ -478,6 +478,17 @@ Z. Bao, **M. Lu**, F. Deng
 
 <!-- <p><a href="https://github.com/maobinlu/GroupMembers">Detailed Information</a></p> -->
 <h2>Current Members</h2>
+<h3>Postdoctoral Fellows</h3>
+<div style="display: flex;">
+
+  <!-- 左列 -->
+  <div style="width: 50%; padding-right: 10px;"> 
+    <ul>
+      <li>Kedi Xie (2023-2025)</li>
+    </ul>
+  </div>
+</div>
+
 <h3>PhD Students</h3>
 <div style="display: flex;">
 
@@ -537,21 +548,29 @@ Z. Bao, **M. Lu**, F. Deng
 
 <h2>Graduated Members</h2>
 <h3>PhD Students</h3>
-<ul>
-<li><p>Jieshuai Wu (2024)</p>
-</li>
-</ul>
+<div style="display: flex;">
+
+  <!-- 左列 -->
+  <div style="width: 50%; padding-right: 10px;"> 
+    <ul>
+      <li>Jieshuai Wu (2024)</li>
+    </ul>
+  </div>
+</div>
+
 <h3>Master Students</h3>
-<ul>
-<li><p>Xingxiu He (2022)</p>
-</li>
-<li><p>Yongjie Zhang (2023)</p>
-</li>
-<li><p>Ze'an Bao (2023)</p>
-</li>
-<li><p>Juan Dong (2024)</p>
-</li>
-</ul>
+<div style="display: flex;">
+
+  <!-- 左列 -->
+  <div style="width: 50%; padding-right: 10px;"> 
+    <ul>
+      <li>Xingxiu He (2022)</li>
+      <li>Yongjie Zhang (2023)</li>
+      <li>Ze'an Bao (2023)</li>
+      <li>Juan Dong (2024)</li>
+    </ul>
+  </div>
+</div>
 
 <div class='paper-box'><div class='full-width-box'><div><img src='images/合照.jpg' alt="sym" width="100%"></div></div></div>
 
