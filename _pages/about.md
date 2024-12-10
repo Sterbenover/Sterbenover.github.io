@@ -15,7 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='-about-me'></span>
+<div class='anchor' id='-about-me'></div>
+
+
 
 Lu Maobin is a professor at the School of Automation, Beijing Institute of Technology, and a doctoral supervisor. He is a recipient of the Youth Program of the 16th batch of the "Overseas High-level Talent Introduction Program" in China. His research mainly focuses on output regulation of complex dynamic systems, distributed estimation, cooperative control and game theory, and unmanned system control. He has published more than ten first-author papers in top-tier journals in the field of systems and control, such as IEEE Transactions on Automatic Control (IEEE TAC) and Automatica. Currently, he is leading projects such as the National Key Technology R&D Program for Next-generation Artificial Intelligence, the General Program of the National Natural Science Foundation of China, and key projects funded by the Beijing Natural Science Foundation-Xiaomi Innovation Joint Fund.
 
@@ -25,7 +27,7 @@ He currently serves as the Deputy Secretary-General of the Youth Work Committee 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-<span class='anchor' id='-personal-information'></span>
+<div class='anchor' id='-personal-information'></div>
 
 # <i class="fa fa-vcard-o" aria-hidden="true"></i> Personal Information
 - *Nov.2020 - Now*, Professor, Control Science and Engineering, Beijing Institute of Technology.
@@ -35,17 +37,17 @@ He currently serves as the Deputy Secretary-General of the Youth Work Committee 
 - *Sep.2008-Jul.2011*, M.S., Mechanical Engineering, Beihang University.
 - *Sep.2004-Jul.2008*, B.S., Mechanical Engineering, North China University of Technology.
 
-<span class='anchor' id='-research-interestss'></span>
+<div class='anchor' id='-research-interests'></div>
 
 # 🔥 Research Interests
 - Networked Control: Robot Systems, Vehicles, Spacecrafts
 - Output Regulation: Linear Systems, Nonliear Systems, Time-Delay Systems
 
-<span class='anchor' id='-awards'></span>
-
+<div class='anchor' id='-awards'></div>
+<!-- <div></div> -->
 # 🎖 Awards
 
-<span class='anchor' id='-research-awards'></span>
+<div class='anchor' id='-research-awards'></div>
  
 <h2>Research Awards</h2>
 
@@ -73,7 +75,7 @@ Z. Bao, **M. Lu**, F. Deng
 
 <!-- <div class='paper-box'><div class='full-width-box'><div><img src='images/research_awards.jpg' alt="sym" width="100%"></div></div></div> -->
 
-<span class='anchor' id='-competition-awards'></span>
+<div class='anchor' id='-competition-awards'></div>
 
 <h2>Competition Awards</h2>
 
@@ -142,11 +144,11 @@ Advisor: **M. Lu**
 
 <!-- <div class='paper-box'><div class='full-width-box'><div><img src='images/competition_awards.jpg' alt="sym" width="100%"></div></div></div> -->
 
-<span class='anchor' id='-publications'></span>
+<div class='anchor' id='-publications'></div>
 
 # 📝 Publications 
 
-<span class='anchor' id='-journal-papers'></span>
+<div class='anchor' id='-journal-papers'></div>
 
 <h2>Journal Papers</h2>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='images/1-450_300.jpg' alt="sym" width="100%"></div></div>
@@ -279,7 +281,7 @@ X. He, **M. Lu** |
 </li>
 </ol>
 
-<span class='anchor' id='-conference-papers'></span>
+<div class='anchor' id='-conference-papers'></div>
 
 <h2>Conference Papers</h2>
 
@@ -364,7 +366,7 @@ Z. Bao, **M. Lu**, F. Deng
 </li>
 </ol>
 
-<span class='anchor' id='-pending-patents-and-software'></span>
+<div class='anchor' id='-pending-patents-and-software'></div>
 
 <h2>Pending Patents and Software</h2>
 <h3>Patents</h3>
@@ -424,7 +426,7 @@ Z. Bao, **M. Lu**, F. Deng
 </li>
 </ol>
 
-<span class='anchor' id='-thesis'></span>
+<div class='anchor' id='-thesis'></div>
 
 <h2>Thesis</h2>
 <ol>
@@ -435,7 +437,7 @@ Z. Bao, **M. Lu**, F. Deng
 </ol>
 <!-- <p><a href="publications.html" class="current">More</a></p> -->
 
-<span class='anchor' id='-teaching'></span>
+<div class='anchor' id='-teaching'></div>
 
 # 📖 Teaching
 <!-- - *Nov.2020 - Now*,Professor,Control Science and Engineering,Beijing Institute of Technology.
@@ -467,7 +469,7 @@ Z. Bao, **M. Lu**, F. Deng
 </ul>
 
 
-<span class='anchor' id='-group'></span>
+<div class='anchor' id='-group'></div>
 
 # 💬 Research Group
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -572,12 +574,12 @@ Z. Bao, **M. Lu**, F. Deng
 <div class='paper-box'><div class='full-width-box'><div><img src='images/合照.jpg' alt="sym" width="100%"></div></div></div>
 
 
-<span class='anchor' id='-service'></span>
+<div class='anchor' id='-service'></div>
 
 # 💻 Service
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-<span class='anchor' id='-research-projects-and-grants'></span>
+<div class='anchor' id='-research-projects-and-grants'></div>
 
 <h2>Research Projects and Grants</h2>
 <ul>
@@ -593,7 +595,7 @@ Z. Bao, **M. Lu**, F. Deng
 </li>
 </ul>
 
-<span class='anchor' id='-professional-activities'></span>
+<div class='anchor' id='-professional-activities'></div>
 
 <h2>Professional Activities</h2>
 <h3>International Program Committee</h3>
@@ -641,7 +643,7 @@ Z. Bao, **M. Lu**, F. Deng
 </li>
 </ul>
 
-<span class='anchor' id='-conference-presentations'></span>
+<div class='anchor' id='-conference-presentations'></div>
 
 <h2>Conference Presentations</h2>
 <ul>
