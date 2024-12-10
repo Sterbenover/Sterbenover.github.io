@@ -1,50 +1,36 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#-about-me"
-
-  # - title: "News"
-  #   url: "/#-news"
-  - title: "Personal Information"
-    url: "/#-personal-information"
-
-  - title: "Research Interests"
-    url: "/#-research-interests"
-
+    url: "/"
   - title: "Awards"
-    url: "/#-awards"
+    url: "/awards/"
     submenus:
       - title: "Research Awards"
-        url: "/#-research-awards"
+        url: "/awards/#-research-awards"
       - title: "Competition Awards"
-        url: "/#-competition-awards"
+        url: "/awards/#-competition-awards"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/publications/"
     submenus:
       - title: "Journal Papers"
-        url: "/#-journal-papers"
+        url: "/publications/#-journal-papers"
       - title: "Conference Papers"
-        url: "/#-conference-papers"
+        url: "/publications/#-conference-papers"
       - title: "Pending Patents and Software"
-        url: "/#-pending-patents-and-software"
+        url: "/publications/#-pending-patents-and-software"
       - title: "Thesis"
-        url: "/#-thesis" 
-
+        url: "/publications/#-thesis"
   - title: "Teaching"
-    url: "/#-teaching"
-
+    url: "/teaching/"
   - title: "Research Group"
-    url: "/#-group"
-
+    url: "/group/"
   - title: "Service"
-    url: "/#-service"
+    url: "/service/"
     submenus:
       - title: "Research Projects and Grants"
-        url: "/#-research-projects-and-grants"
+        url: "/service/#-research-projects-and-grants"
       - title: "Professional Activities"
-        url: "/#-professional-activities"
+        url: "/service/#-professional-activities"
       - title: "Conference Presentations"
-        url: "/#-conference-presentations"
-  # - title: "Internships"
-  #   url: "/#-internships"
+        url: "/service/#-conference-presentations"

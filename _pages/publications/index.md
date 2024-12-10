@@ -1,155 +1,23 @@
 ---
-permalink: /
-title: ""
+permalink: /publications/
+layout: default
+title: "Publications"
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+# redirect_from: 
+#   - /about/
+#   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='-about-me'></span>
-
-Lu Maobin is a professor at the School of Automation, Beijing Institute of Technology, and a doctoral supervisor. He is a recipient of the Youth Program of the 16th batch of the "Overseas High-level Talent Introduction Program" in China. His research mainly focuses on output regulation of complex dynamic systems, distributed estimation, cooperative control and game theory, and unmanned system control. He has published more than ten first-author papers in top-tier journals in the field of systems and control, such as IEEE Transactions on Automatic Control (IEEE TAC) and Automatica. Currently, he is leading projects such as the National Key Technology R&D Program for Next-generation Artificial Intelligence, the General Program of the National Natural Science Foundation of China, and key projects funded by the Beijing Natural Science Foundation-Xiaomi Innovation Joint Fund.
-
-His research achievements have won several prestigious awards, including the IEEE ICCA Best Paper Award, the Zhang Siying (CCDC) Outstanding Young Paper Award at the Chinese Control and Decision Conference, the Shimemura Young Author Award at the Asian Control Conference, and the Best Paper Award at the World Congress on Intelligent Control and Automation (WCICA). He has also mentored students who have won multiple innovation and technology competition awards, such as the championship in the UAV Intelligent Perception Technology Competition, the grand prize in the International Smart Unmanned Systems Application Challenge (Flight Obstacle Avoidance) and the first prize in the Air-ground Coordination competition, the grand prize in the Capital Challenge Cup, and the runner-up in the RoboMaster Mech Master AI Challenge Elite Competition.
-
-He currently serves as the Deputy Secretary-General of the Youth Work Committee of the Chinese Association of Automation and as a member of the Committee on Autonomous and Unmanned Systems of the Chinese Association for Artificial Intelligence.
-
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
-<span class='anchor' id='-personal-information'></span>
-
-# <i class="fa fa-vcard-o" aria-hidden="true"></i> Personal Information
-- *Nov.2020 - Now*, Professor, Control Science and Engineering, Beijing Institute of Technology.
-- *Sep.2018-Nov.2020*, Associate Professor, Control Science and Engineering, Beijing Institute of Technology.
-- *Aug.2015-Sep.2018*, Postdoctoral Fellow, Automation Engineering, City University of Hong Kong.
-- *Sep.2011-Aug.2015*, Ph.D., Mechanical and Automation Engineering, The Chinese University of Hong Kong.
-- *Sep.2008-Jul.2011*, M.S., Mechanical Engineering, Beihang University.
-- *Sep.2004-Jul.2008*, B.S., Mechanical Engineering, North China University of Technology.
-
-<span class='anchor' id='-research-interestss'></span>
-
-# 🔥 Research Interests
-- Networked Control: Robot Systems, Vehicles, Spacecrafts
-- Output Regulation: Linear Systems, Nonliear Systems, Time-Delay Systems
-
-<span class='anchor' id='-awards'></span>
-
-# 🎖 Awards
-
-<span class='anchor' id='-research-awards'></span>
- 
-<h2>Research Awards</h2>
-
-<div class='paper-box'><div class='paper-box-image'><div>  <img src='images/Best Paper Award for ICCA.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-Best Paper Award for ICCA, 2024
-
-L. Liu, **M. Lu**, F. Deng, L. Dou and J. Chen
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div>  <img src='images/Best Theoretical Paper Award for YAC.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-Best Theoretical Paper Award for YAC, 2023
-
-Z. Bao, **M. Lu**, F. Deng
-</div>
-</div>
-
-<!-- - Best Paper Award for ICCA, 2024
-- Best Theoretical Paper Award for YAC, 2023 -->
-- Best Paper Award for WCICA, 2018
-- Zhang Si-Ying (CCDC) Outstanding Youth Paper Award, 2018
-- Shimemura Young Author Prize for ASCC, 2017
-- Hong Kong Reaching Out Award 2014-2015, 2015
-
-<!-- <div class='paper-box'><div class='full-width-box'><div><img src='images/research_awards.jpg' alt="sym" width="100%"></div></div></div> -->
-
-<span class='anchor' id='-competition-awards'></span>
-
-<h2>Competition Awards</h2>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/“新长江杯”2024智能无人系统挑战赛-飞行避障冠军.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-"New Yangtze River Cup" 2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion
-
-Team Members: J. Cai, W. Kong, Y. Bao, H. Li, Y. Liu and Q. Wang
-
-Advisor: **M. Lu**, C. Wang and F. Deng
-
-<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a>
-
-<!-- [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4) -->
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/“新长江杯”2024智能无人系统挑战赛-空地协同冠军.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-"New Yangtze River Cup" 2024 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Champion
-
-Team Members: Y. Lin, Z. Du, Y. Lu, Y. Bao, F. Wang and Q. Wang
-
-Advisor: **M. Lu**, C. Chen and F. Deng
-
-<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a>
-<!-- [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4) -->
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/挑战杯黑科技专项赛冠军.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-2023 "Challenge Cup" Capital University Students' Extracurricular Academic and Scientific Works Provincial Competition Champion
-
-Team Members: B. Xie, G. Liu, J. Dong, G. Sun and X. Yang
-
-Advisor: **M. Lu**
-
-<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4" class="download-btn" download>Video</a>
-
-<!-- [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4) -->
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-
-</div>
-</div>
-<!-- - "New Yangtze River Cup" 2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4)
-- "New Yangtze River Cup" 2024 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Champion  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4) -->
-- "Zhaoying Cup" 2023 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> 
-<!-- [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4) -->
-- "Zhaoying Cup" 2023 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Runner-up  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E4%BA%9A%E5%86%9B.mp4" class="download-btn" download>Video</a> 
-<!-- [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E4%BA%9A%E5%86%9B.mp4) -->
-- ROBOMASTER Planning and Control Special Competition Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROBOMASTER%E8%A7%84%E5%88%92%E6%8E%A7%E5%88%B6%E4%B8%93%E9%A1%B9%E8%B5%9B%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> 
-
-<!-- [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROBOMASTER%E8%A7%84%E5%88%92%E6%8E%A7%E5%88%B6%E4%B8%93%E9%A1%B9%E8%B5%9B%E5%86%A0%E5%86%9B.mp4)
-- Robomaster Elite Competition Runner-up  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/Robomaster%E7%B2%BE%E8%8B%B1%E8%B5%9B%E4%BA%9A%E5%86%9B.mp4) -->
-<!-- - 2023 "Challenge Cup" Capital University Students' Extracurricular Academic and Scientific Works Provincial Competition Champion  -->
-- 18th "Challenge Cup" National College Students' Extracurricular Academic and Scientific Works Competition Runner-up
-
-
-<!-- <div class='paper-box'><div class='full-width-box'><div><img src='images/competition_awards.jpg' alt="sym" width="100%"></div></div></div> -->
-
-<span class='anchor' id='-publications'></span>
+<!-- <span class='anchor' id='-publications'></span> -->
 
 # 📝 Publications 
 
-<span class='anchor' id='-journal-papers'></span>
+<!-- <span class='anchor' id='-journal-papers'></span> -->
 
 <h2>Journal Papers</h2>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='images/1-450_300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='{{ site.baseurl }}/images/1-450_300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robust distributed nash equilibrium seeking subject to communication constraints](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2024.3476195&oq=)
@@ -163,7 +31,7 @@ L. Liu, **M. Lu**, S. Wang, F. Deng and J. Chen |
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='images/2-450_300.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='{{ site.baseurl }}/images/2-450_300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Distributed state estimation under jointly connected switching networks: Continuous-time linear systems and discrete-time linear systems](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2023.3279210&btnG=)
@@ -176,7 +44,7 @@ L. Zhang, **M. Lu**, F. Deng and J. Chen
 </div>
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automatica 2023</div><img src='images/3-450_300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automatica 2023</div><img src='{{ site.baseurl }}/images/3-450_300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Output feedback control of uncertain Euler–Lagrange systems by internal model](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2023.111189&btnG=)
@@ -190,7 +58,7 @@ X. He, **M. Lu** |
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2022</div><img src='images/4-450_300.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2022</div><img src='{{ site.baseurl }}/images/4-450_300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A sensory feedback based discrete distributed observer to cooperative output regulation](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2022.3162545&btnG=)
@@ -202,7 +70,7 @@ X. He, **M. Lu** |
 </div>
 </div> -->
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2020</div><img src='images/5-450_300.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2020</div><img src='{{ site.baseurl }}/images/5-450_300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Consensus of heterogeneous second-order nonlinear uncertain multi-agent systems under switching networks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A10.1109%2FTAC.2020.3019737&btnG=)
@@ -279,11 +147,11 @@ X. He, **M. Lu** |
 </li>
 </ol>
 
-<span class='anchor' id='-conference-papers'></span>
+<!-- <span class='anchor' id='-conference-papers'></span> -->
 
 <h2>Conference Papers</h2>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCA 2024(Best Paper Award)</div><img src='images/6-450_300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCA 2024(Best Paper Award)</div><img src='{{ site.baseurl }}/images/6-450_300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Distributed Nash Equilibrium Seeking with Communication Delays](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FICCA62789.2024.10591839&btnG=)
@@ -296,7 +164,7 @@ L. Liu, **M. Lu**, S. Wang, F. Deng, L. Dou and J. Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">YAC 2023(Best Theoretical Paper Award)</div><img src='images/7-450_300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">YAC 2023(Best Theoretical Paper Award)</div><img src='{{ site.baseurl }}/images/7-450_300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Leader-Following Attitude Synchronization of Multiple Flexible Spacecraft Systems Subject to External Disturbance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Leader-Following+Attitude+Synchronization+of+Multiple+Flexible+Spacecraft+Systems+Subject+to+External+Disturbance&btnG=)
@@ -434,235 +302,3 @@ Z. Bao, **M. Lu**, F. Deng
 </li>
 </ol>
 <!-- <p><a href="publications.html" class="current">More</a></p> -->
-
-<span class='anchor' id='-teaching'></span>
-
-# 📖 Teaching
-<!-- - *Nov.2020 - Now*,Professor,Control Science and Engineering,Beijing Institute of Technology.
-- *Sep.2018-Nov.2020*,Associate Professor,Control Science and Engineering,Beijing Institute of Technology.
-- *Aug.2015-Sep.2018*,Postdoctoral Fellow,Automation Engineering,City University of Hong Kong.
-- *Sep.2011-Aug.2015*,Ph.D.,Mechanical and Automation Engineering,The Chinese University of Hong Kong.
-- *Sep.2008-Jul.2011*,M.S.,Mechanical Engineering,Beihang University.
-- *Sep.2004-Jul.2008*,B.S.,Mechanical Engineering,North China University of Technology. -->
-<h2>Undergraduate Courses:</h2>
-<ul>
-<li><p>Operational Research, 32 class hours</p>
-</li>
-</ul>
-<h2>Postgraduate Courses:</h2>
-<ul>
-<li><p>Optimization Theory and Methods, 32 class hours</p>
-</li>
-</ul>
-<h2>Teaching Assistant(CUHK)</h2>
-<ul>
-<li><p>Engineering Mathematics, 2012-2014 spring</p>
-</li>
-<li><p>Control and Industrial Automation, 2012-2013 fall</p>
-</li>
-<li><p>Modern Control Systems Analysis and Design, 2012-2013 fall
-
-</p>
-</li>
-</ul>
-
-
-<span class='anchor' id='-group'></span>
-
-# 💬 Research Group
-<!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-<!-- <p><a href="https://github.com/maobinlu/GroupMembers">Detailed Information</a></p> -->
-<h2>Current Members</h2>
-<h3>Postdoctoral Fellows</h3>
-<div style="display: flex;">
-
-  <!-- 左列 -->
-  <div style="width: 50%; padding-right: 10px;"> 
-    <ul>
-      <li>Kedi Xie (2023-2025)</li>
-    </ul>
-  </div>
-</div>
-
-<h3>PhD Students</h3>
-<div style="display: flex;">
-
-  <!-- 左列 -->
-  <div style="width: 50%; padding-right: 10px;"> 
-    <ul>
-      <li>Haizhou Yang (2020-2026)</li>
-      <li>Lupeng Liu (2021-2025)</li>
-      <li>Lan Zhang (2021-2025)</li>
-      <li>Faqi Wang (2022-2026)</li>
-      <li>Geyuan Liu (2022-2028)</li>
-      <li>Qiang Wang (2023-2027)</li>
-    </ul>
-  </div>
-
-  <!-- 右列 -->
-  <div style="width: 50%; padding-left: 10px;">
-    <ul>
-      <li>Bowei Xie (2023-2027)</li>
-      <li>Xianzhi Yang (2023-2029)</li>
-      <li>Guanghui Sun (2024-2028)</li>
-      <li>Fangzhe Xu (2024-2029)</li>
-      <li>Xinrui Xie (2024-2030)</li>
-    </ul>
-  </div>
-
-</div>
-
-
-<h3>Master Students</h3>
-
-<div style="display: flex;">
-
-  <!-- 左列 -->
-  <div style="width: 50%; padding-right: 10px;">
-    <ul>
-      <li>Jianyi Cai (2022-2025)</li>
-      <li>Yulong Lin (2022-2025)</li>
-      <li>Yufan Lu (2022-2025)</li>
-      <li>Yuhan Bao (2023-2026)</li>
-      <li>Hongzeng Li (2023-2026)</li>
-    </ul>
-  </div>
-
-  <!-- 右列 -->
-  <div style="width: 50%; padding-left: 10px;">
-    <ul>
-      <li>Qilin Yan (2023-2026)</li>
-      <li>Fujian Sun (2024-2027)</li>
-      <li>Zelong Xie (2024-2027)</li>
-      <li>Shiduo Wang (2024-2027)</li>
-      <li>Wei Nie (2024-2027)</li>
-    </ul>
-  </div>
-
-</div>
-
-<h2>Graduated Members</h2>
-<h3>PhD Students</h3>
-<div style="display: flex;">
-
-  <!-- 左列 -->
-  <div style="width: 50%; padding-right: 10px;"> 
-    <ul>
-      <li>Jieshuai Wu (2024)</li>
-    </ul>
-  </div>
-</div>
-
-<h3>Master Students</h3>
-<div style="display: flex;">
-
-  <!-- 左列 -->
-  <div style="width: 50%; padding-right: 10px;"> 
-    <ul>
-      <li>Xingxiu He (2022)</li>
-      <li>Yongjie Zhang (2023)</li>
-      <li>Ze'an Bao (2023)</li>
-      <li>Juan Dong (2024)</li>
-    </ul>
-  </div>
-</div>
-
-<div class='paper-box'><div class='full-width-box'><div><img src='images/合照.jpg' alt="sym" width="100%"></div></div></div>
-
-
-<span class='anchor' id='-service'></span>
-
-# 💻 Service
-<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-
-<span class='anchor' id='-research-projects-and-grants'></span>
-
-<h2>Research Projects and Grants</h2>
-<ul>
-<li><p>Principal Investigator,&ldquo;Robust cooperative output regulation and its application&rdquo;,National Natural Science Foundation of China,2020.01-2023.12</p>
-</li>
-<li><p>Principal Investigator,&ldquo;Cooperative output regulation of multi-agent systems&rdquo;,Young Teachers Academic Startup Project of Beijing Institute of Technology,2018.09-2021.09</p>
-</li>
-<li><p>Participant,&ldquo;Basic theory and key technology of flexible wearable sensor network systems based on ubiquitous energy&rdquo;,Key Program of National Natural Science Foundation of China,2020.01-2024.12</p>
-</li>
-<li><p>Participant,&ldquo;Attachment and Cooperative control of complex flexible systems on asteroids&rdquo;,National Key R&D Program of China,2019.12-2024.11</p>
-</li>
-<li><p>Participant,&ldquo;Cooperative output regulation of nonlinear multi-agent systems and its applications&rdquo;,National Natural Science Foundation of China,2018.01-2021.12</p>
-</li>
-</ul>
-
-<span class='anchor' id='-professional-activities'></span>
-
-<h2>Professional Activities</h2>
-<h3>International Program Committee</h3>
-<ul>
-<li><p>Associate Editor: The 2020 IEEE International Conference on Control &amp; Automation, Sapporo, Hokkaido, Japan, Jul. 6–9, 2020</p>
-</li>
-<li><p>Associate Editor: The 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV), Shenzhen, Dec. 13–15, 2020</p>
-</li>
-<li><p>Associate Editor and Session Chair: The 2019 IEEE International Conference on Control &amp; Automation, Edinburgh, Scotland, Jul. 16–19, 2019</p>
-</li>
-<li><p>Associate Editor: The 2018 15th International Conference on Control, Automation, Robotics and Vision (ICARCV), Singapore, Nov. 18–21, 2018</p>
-</li>
-<li><p>Associate Editor: The 2018 IEEE International Conference on Control &amp; Automation, Anchorage, Alaska, USA, Jun. 12–15, 2018</p>
-</li>
-<li><p>Publicity Chair and Associate Editor: The 2017 IEEE International Conference on Control &amp; Automation, Ohrid, Macedonia, Jul. 3–6, 2017</p>
-</li>
-<li><p>Associate Editor: The 2016 IEEE International Conference on Control &amp; Automation, Kathmandu, Nepal, Jun. 1–3, 2016</p>
-</li>
-</ul>
-<h3>Journal Reviewer</h3>
-<ul>
-<li><p>IEEE Transactions on Automatic Control</p>
-</li>
-<li><p>Automatica</p>
-</li>
-<li><p>International Journal of Robust and Nonlinear Control</p>
-</li>
-<li><p>IEEE Transactions on Cybernetics <b>(Outstanding Reviewer Award)</b></p>
-</li>
-<li><p>IEEE Transactions on Control Systems Technology</p>
-</li>
-<li><p>IEEE Transactions on Control of Network Systems</p>
-</li>
-<li><p>IEEE Control Systems Letters</p>
-</li>
-<li><p>European Journal of Control</p>
-</li>
-<li><p>Control Engineering Practice</p>
-</li>
-<li><p>Nonlinear Analysis: Hybrid Systems</p>
-</li>
-<li><p>Unmanned Systems</p>
-</li>
-<li><p>Journal of Control Theory and Applications</p>
-</li>
-</ul>
-
-<span class='anchor' id='-conference-presentations'></span>
-
-<h2>Conference Presentations</h2>
-<ul>
-<li><p>The 2019 IEEE International Conference on Control &amp; Automation, Edinburgh, Scotland, Jul. 16–19, 2019 (20 mins)</p>
-</li>
-<li><p>The 2018 Chinese Control and Decision Conference, Shenyang, China, Jun. 9–11, 2018 (20 mins)</p>
-</li>
-<li><p>The 2018 Asian Control Conference, Gold Coast, Australia, Dec. 17–20, 2017 (20 mins)</p>
-</li>
-<li><p>The 2017 American Control Conference, Seattle, USA, May 24–26, 2017 (20 mins)</p>
-</li>
-<li><p>The 14th International Conference on Control, Automation, Robotics and Vision, Phuket, Thailand, Nov. 13–15, 2016 (20 mins)</p>
-</li>
-<li><p>The 2015 IEEE International Conference on Information and Automation, Li jiang, China, Aug. 8–10, 2015 (20 mins)</p>
-</li>
-<li><p>The 2015 American Control Conference, Chicago, USA, July 1–3, 2015 (20 mins)</p>
-</li>
-<li><p>The 33rd Chinese Control Conference, Nanjing, China, July 28–30, 2014 (20 mins)</p>
-</li>
-<li><p>The 4th IEEE International Conference on Cyber Technology in Automation, Control and Intelligent Systems, Hong Kong, China, June 4–7, 2014 (20 mins)</p>
-</li>
-<li><p>The 32nd Chinese Control Conference, Xi’an, China, July 26–28, 2013 (20 mins)</p>
-</li>
-</ul>

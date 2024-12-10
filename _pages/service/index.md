@@ -1,0 +1,104 @@
+---
+permalink: /service/
+layout: default
+title: "Service"
+excerpt: ""
+author_profile: true
+# redirect_from: 
+#   - /about/
+#   - /about.html
+---
+
+<!-- <span class='anchor' id='-service'></span> -->
+
+# 💻 Service
+
+<!-- <span class='anchor' id='-research-projects-and-grants'></span> -->
+
+<h2>Research Projects and Grants</h2>
+<ul>
+<li><p>Principal Investigator,&ldquo;Robust cooperative output regulation and its application&rdquo;,National Natural Science Foundation of China,2020.01-2023.12</p>
+</li>
+<li><p>Principal Investigator,&ldquo;Cooperative output regulation of multi-agent systems&rdquo;,Young Teachers Academic Startup Project of Beijing Institute of Technology,2018.09-2021.09</p>
+</li>
+<li><p>Participant,&ldquo;Basic theory and key technology of flexible wearable sensor network systems based on ubiquitous energy&rdquo;,Key Program of National Natural Science Foundation of China,2020.01-2024.12</p>
+</li>
+<li><p>Participant,&ldquo;Attachment and Cooperative control of complex flexible systems on asteroids&rdquo;,National Key R&D Program of China,2019.12-2024.11</p>
+</li>
+<li><p>Participant,&ldquo;Cooperative output regulation of nonlinear multi-agent systems and its applications&rdquo;,National Natural Science Foundation of China,2018.01-2021.12</p>
+</li>
+</ul>
+
+<!-- <span class='anchor' id='-professional-activities'></span> -->
+
+<h2>Professional Activities</h2>
+<h3>International Program Committee</h3>
+<ul>
+<li><p>Associate Editor: The 2020 IEEE International Conference on Control &amp; Automation, Sapporo, Hokkaido, Japan, Jul. 6–9, 2020</p>
+</li>
+<li><p>Associate Editor: The 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV), Shenzhen, Dec. 13–15, 2020</p>
+</li>
+<li><p>Associate Editor and Session Chair: The 2019 IEEE International Conference on Control &amp; Automation, Edinburgh, Scotland, Jul. 16–19, 2019</p>
+</li>
+<li><p>Associate Editor: The 2018 15th International Conference on Control, Automation, Robotics and Vision (ICARCV), Singapore, Nov. 18–21, 2018</p>
+</li>
+<li><p>Associate Editor: The 2018 IEEE International Conference on Control &amp; Automation, Anchorage, Alaska, USA, Jun. 12–15, 2018</p>
+</li>
+<li><p>Publicity Chair and Associate Editor: The 2017 IEEE International Conference on Control &amp; Automation, Ohrid, Macedonia, Jul. 3–6, 2017</p>
+</li>
+<li><p>Associate Editor: The 2016 IEEE International Conference on Control &amp; Automation, Kathmandu, Nepal, Jun. 1–3, 2016</p>
+</li>
+</ul>
+<h3>Journal Reviewer</h3>
+<ul>
+<li><p>IEEE Transactions on Automatic Control</p>
+</li>
+<li><p>Automatica</p>
+</li>
+<li><p>International Journal of Robust and Nonlinear Control</p>
+</li>
+<li><p>IEEE Transactions on Cybernetics <b>(Outstanding Reviewer Award)</b></p>
+</li>
+<li><p>IEEE Transactions on Control Systems Technology</p>
+</li>
+<li><p>IEEE Transactions on Control of Network Systems</p>
+</li>
+<li><p>IEEE Control Systems Letters</p>
+</li>
+<li><p>European Journal of Control</p>
+</li>
+<li><p>Control Engineering Practice</p>
+</li>
+<li><p>Nonlinear Analysis: Hybrid Systems</p>
+</li>
+<li><p>Unmanned Systems</p>
+</li>
+<li><p>Journal of Control Theory and Applications</p>
+</li>
+</ul>
+
+<!-- <span class='anchor' id='-conference-presentations'></span> -->
+
+<h2>Conference Presentations</h2>
+<ul>
+<li><p>The 2019 IEEE International Conference on Control &amp; Automation, Edinburgh, Scotland, Jul. 16–19, 2019 (20 mins)</p>
+</li>
+<li><p>The 2018 Chinese Control and Decision Conference, Shenyang, China, Jun. 9–11, 2018 (20 mins)</p>
+</li>
+<li><p>The 2018 Asian Control Conference, Gold Coast, Australia, Dec. 17–20, 2017 (20 mins)</p>
+</li>
+<li><p>The 2017 American Control Conference, Seattle, USA, May 24–26, 2017 (20 mins)</p>
+</li>
+<li><p>The 14th International Conference on Control, Automation, Robotics and Vision, Phuket, Thailand, Nov. 13–15, 2016 (20 mins)</p>
+</li>
+<li><p>The 2015 IEEE International Conference on Information and Automation, Li jiang, China, Aug. 8–10, 2015 (20 mins)</p>
+</li>
+<li><p>The 2015 American Control Conference, Chicago, USA, July 1–3, 2015 (20 mins)</p>
+</li>
+<li><p>The 33rd Chinese Control Conference, Nanjing, China, July 28–30, 2014 (20 mins)</p>
+</li>
+<li><p>The 4th IEEE International Conference on Cyber Technology in Automation, Control and Intelligent Systems, Hong Kong, China, June 4–7, 2014 (20 mins)</p>
+</li>
+<li><p>The 32nd Chinese Control Conference, Xi’an, China, July 26–28, 2013 (20 mins)</p>
+</li>
+</ul>

@@ -68,8 +68,6 @@
   background-color: #ddd;
 }
 
-
-
 </style>
 
 <div class="masthead">
@@ -78,40 +76,40 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="/">Homepage</a></li>
 
           <!-- 修改后的代码 -->
           {% for link in site.data.navigation.main %}
             {% if link.title == 'Publications' %}
               <li class="masthead__menu-item masthead__menu-item--has-dropdown">
-                <a href="#-publications">{{ link.title }}</a>
+                <a href="/publications/">{{ link.title }}</a>
                 <!-- 下拉菜单 -->
                 <ul class="dropdown-menu">
-                  <li><a href="#-journal-papers">Journal Papers</a></li>
-                  <li><a href="#-conference-papers">Conference Papers</a></li>
-                  <li><a href="#-pending-patents-and-software">Pending Patents and Software</a></li>
-                  <li><a href="#-thesis">Thesis</a></li>
+                  <li><a href="/publications/#-journal-papers">Journal Papers</a></li>
+                  <li><a href="/publications/#-conference-papers">Conference Papers</a></li>
+                  <li><a href="/publications/#-pending-patents-and-software">Pending Patents and Software</a></li>
+                  <li><a href="/publications/#-thesis">Thesis</a></li>
                 </ul>
               </li>
             {% endif %}
             {% if link.title == 'Awards' %}
               <li class="masthead__menu-item masthead__menu-item--has-dropdown">
-                <a href="#-awards">{{ link.title }}</a>
+                <a href="/awards/">{{ link.title }}</a>
                 <!-- 下拉菜单 -->
                 <ul class="dropdown-menu">
-                  <li><a href="#-research-awards">Research Awards</a></li>
-                  <li><a href="#-competition-awards">Competition Awards</a></li>
+                  <li><a href="/awards/#-research-awards">Research Awards</a></li>
+                  <li><a href="/awards/#-competition-awards">Competition Awards</a></li>
                 </ul>
               </li>
             {% endif %}
             {% if link.title == 'Service' %}
               <li class="masthead__menu-item masthead__menu-item--has-dropdown">
-                <a href="#-service">{{ link.title }}</a>
+                <a href="/service/">{{ link.title }}</a>
                 <!-- 下拉菜单 -->
                 <ul class="dropdown-menu">
-                  <li><a href="#-research-projects-and-grants">Research Projects and Grants</a></li>
-                  <li><a href="#-professional-activities">Professional Activities</a></li>
-                  <li><a href="#-conference-presentations">Conference Presentations</a></li>
+                  <li><a href="/service/#-research-projects-and-grants">Research Projects and Grants</a></li>
+                  <li><a href="/service/#-professional-activities">Professional Activities</a></li>
+                  <li><a href="/service/#-conference-presentations">Conference Presentations</a></li>
                 </ul>
               </li>
             {% endif %}            
