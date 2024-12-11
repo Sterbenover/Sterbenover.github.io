@@ -15,39 +15,39 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<div class='anchor' id='-about-me'></div>
+<section id="-about-me" data-level="1">
+
+  <p>Lu Maobin is a professor at the School of Automation, Beijing Institute of Technology, and a doctoral supervisor. He is a recipient of the Youth Program of the 16th batch of the "Overseas High-level Talent Introduction Program" in China. His research mainly focuses on output regulation of complex dynamic systems, distributed estimation, cooperative control and game theory, and unmanned system control. He has published more than ten first-author papers in top-tier journals in the field of systems and control, such as IEEE Transactions on Automatic Control (IEEE TAC) and Automatica. Currently, he is leading projects such as the National Key Technology R&D Program for Next-generation Artificial Intelligence, the General Program of the National Natural Science Foundation of China, and key projects funded by the Beijing Natural Science Foundation-Xiaomi Innovation Joint Fund.</p>
+  <p>His research achievements have won several prestigious awards, including the IEEE ICCA Best Paper Award, the Zhang Siying (CCDC) Outstanding Young Paper Award at the Chinese Control and Decision Conference, the Shimemura Young Author Award at the Asian Control Conference, and the Best Paper Award at the World Congress on Intelligent Control and Automation (WCICA). He has also mentored students who have won multiple innovation and technology competition awards, such as the championship in the UAV Intelligent Perception Technology Competition, the grand prize in the International Smart Unmanned Systems Application Challenge (Flight Obstacle Avoidance) and the first prize in the Air-ground Coordination competition, the grand prize in the Capital Challenge Cup, and the runner-up in the RoboMaster Mech Master AI Challenge Elite Competition.</p>
+  <p>He currently serves as the Deputy Secretary-General of the Youth Work Committee of the Chinese Association of Automation and as a member of the Committee on Autonomous and Unmanned Systems of the Chinese Association for Artificial Intelligence.</p>
+
+ <h1><i class="fa fa-vcard-o" aria-hidden="true"></i> Personal Information</h1>
+
+ <ul>
+   <li><p><i>Nov.2020 - Now</i>, Professor, Control Science and Engineering, Beijing Institute of Technology.</p></li>
+   <li><p><i>Aug.2015 - Sep.2018</i>, Postdoctoral Fellow, Automation Engineering, City University of Hong Kong.</p></li>
+   <li><p><i>Sep.2011 - Aug.2015</i>, Ph.D., Mechanical and Automation Engineering, The Chinese University of Hong Kong.</p></li>
+   <li><p><i>Sep.2008 - Jul.2011</i>, M.S., Mechanical Engineering, Beihang University.</p></li>
+   <li><p><i>Sep.2004 - Jul.2008</i>, B.S., Mechanical Engineering, North China University of Technology.</p></li>
+ </ul>
+
+ <h1> 🔥 Research Interests </h1>
+
+ <ul>
+   <li><p>Networked Control: Robot Systems, Vehicles, Spacecrafts</p>
+   </li>
+   <li><p>Output Regulation: Linear Systems, Nonliear Systems, Time-Delay Systems</p>
+   </li>
+ </ul>
+
+</section>
 
 
+<section id="-awards" data-level="1">
 
-Lu Maobin is a professor at the School of Automation, Beijing Institute of Technology, and a doctoral supervisor. He is a recipient of the Youth Program of the 16th batch of the "Overseas High-level Talent Introduction Program" in China. His research mainly focuses on output regulation of complex dynamic systems, distributed estimation, cooperative control and game theory, and unmanned system control. He has published more than ten first-author papers in top-tier journals in the field of systems and control, such as IEEE Transactions on Automatic Control (IEEE TAC) and Automatica. Currently, he is leading projects such as the National Key Technology R&D Program for Next-generation Artificial Intelligence, the General Program of the National Natural Science Foundation of China, and key projects funded by the Beijing Natural Science Foundation-Xiaomi Innovation Joint Fund.
+<h1> 🎖 Awards </h1>
 
-His research achievements have won several prestigious awards, including the IEEE ICCA Best Paper Award, the Zhang Siying (CCDC) Outstanding Young Paper Award at the Chinese Control and Decision Conference, the Shimemura Young Author Award at the Asian Control Conference, and the Best Paper Award at the World Congress on Intelligent Control and Automation (WCICA). He has also mentored students who have won multiple innovation and technology competition awards, such as the championship in the UAV Intelligent Perception Technology Competition, the grand prize in the International Smart Unmanned Systems Application Challenge (Flight Obstacle Avoidance) and the first prize in the Air-ground Coordination competition, the grand prize in the Capital Challenge Cup, and the runner-up in the RoboMaster Mech Master AI Challenge Elite Competition.
-
-He currently serves as the Deputy Secretary-General of the Youth Work Committee of the Chinese Association of Automation and as a member of the Committee on Autonomous and Unmanned Systems of the Chinese Association for Artificial Intelligence.
-
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
-<div class='anchor' id='-personal-information'></div>
-
-# <i class="fa fa-vcard-o" aria-hidden="true"></i> Personal Information
-- *Nov.2020 - Now*, Professor, Control Science and Engineering, Beijing Institute of Technology.
-- *Sep.2018-Nov.2020*, Associate Professor, Control Science and Engineering, Beijing Institute of Technology.
-- *Aug.2015-Sep.2018*, Postdoctoral Fellow, Automation Engineering, City University of Hong Kong.
-- *Sep.2011-Aug.2015*, Ph.D., Mechanical and Automation Engineering, The Chinese University of Hong Kong.
-- *Sep.2008-Jul.2011*, M.S., Mechanical Engineering, Beihang University.
-- *Sep.2004-Jul.2008*, B.S., Mechanical Engineering, North China University of Technology.
-
-<div class='anchor' id='-research-interests'></div>
-
-# 🔥 Research Interests
-- Networked Control: Robot Systems, Vehicles, Spacecrafts
-- Output Regulation: Linear Systems, Nonliear Systems, Time-Delay Systems
-
-<div class='anchor' id='-awards'></div>
-<!-- <div></div> -->
-# 🎖 Awards
-
-<div class='anchor' id='-research-awards'></div>
+<section id="-research-awards" data-level="2">
  
 <h2>Research Awards</h2>
 
@@ -65,17 +65,19 @@ Best Theoretical Paper Award for YAC, 2023
 Z. Bao, **M. Lu**, F. Deng
 </div>
 </div>
+<ul>
+  <li><p>Best Paper Award for WCICA, 2018</p>
+  </li>
+  <li><p>Zhang Si-Ying (CCDC) Outstanding Youth Paper Award, 2018</p>
+  </li>
+  <li><p>Shimemura Young Author Prize for ASCC, 2017</p>
+  </li>
+  <li><p>Hong Kong Reaching Out Award 2014-2015, 2015</p>
+  </li>
+</ul>
+</section>
 
-<!-- - Best Paper Award for ICCA, 2024
-- Best Theoretical Paper Award for YAC, 2023 -->
-- Best Paper Award for WCICA, 2018
-- Zhang Si-Ying (CCDC) Outstanding Youth Paper Award, 2018
-- Shimemura Young Author Prize for ASCC, 2017
-- Hong Kong Reaching Out Award 2014-2015, 2015
-
-<!-- <div class='paper-box'><div class='full-width-box'><div><img src='images/research_awards.jpg' alt="sym" width="100%"></div></div></div> -->
-
-<div class='anchor' id='-competition-awards'></div>
+<section id="-competition-awards" data-level="2">
 
 <h2>Competition Awards</h2>
 
@@ -90,9 +92,6 @@ Advisor: **M. Lu**, C. Wang and F. Deng
 
 <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a>
 
-<!-- [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4) -->
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-
 </div>
 </div>
 
@@ -106,8 +105,6 @@ Team Members: Y. Lin, Z. Du, Y. Lu, Y. Bao, F. Wang and Q. Wang
 Advisor: **M. Lu**, C. Chen and F. Deng
 
 <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a>
-<!-- [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4) -->
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 </div>
 </div>
@@ -123,33 +120,32 @@ Advisor: **M. Lu**
 
 <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4" class="download-btn" download>Video</a>
 
-<!-- [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4) -->
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-
 </div>
 </div>
-<!-- - "New Yangtze River Cup" 2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4)
-- "New Yangtze River Cup" 2024 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Champion  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4) -->
-- "Zhaoying Cup" 2023 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> 
-<!-- [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4) -->
-- "Zhaoying Cup" 2023 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Runner-up  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E4%BA%9A%E5%86%9B.mp4" class="download-btn" download>Video</a> 
-<!-- [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E4%BA%9A%E5%86%9B.mp4) -->
-- ROBOMASTER Planning and Control Special Competition Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROBOMASTER%E8%A7%84%E5%88%92%E6%8E%A7%E5%88%B6%E4%B8%93%E9%A1%B9%E8%B5%9B%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> 
-
-<!-- [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROBOMASTER%E8%A7%84%E5%88%92%E6%8E%A7%E5%88%B6%E4%B8%93%E9%A1%B9%E8%B5%9B%E5%86%A0%E5%86%9B.mp4)
-- Robomaster Elite Competition Runner-up  [[Video]](https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/Robomaster%E7%B2%BE%E8%8B%B1%E8%B5%9B%E4%BA%9A%E5%86%9B.mp4) -->
-<!-- - 2023 "Challenge Cup" Capital University Students' Extracurricular Academic and Scientific Works Provincial Competition Champion  -->
-- 18th "Challenge Cup" National College Students' Extracurricular Academic and Scientific Works Competition Runner-up
 
 
-<!-- <div class='paper-box'><div class='full-width-box'><div><img src='images/competition_awards.jpg' alt="sym" width="100%"></div></div></div> -->
+<ul>
+  <li><p>"Zhaoying Cup" 2023 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
+  </li>
 
-<div class='anchor' id='-publications'></div>
+  <li><p>"Zhaoying Cup" 2023 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Runner-up  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E4%BA%9A%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
+  </li>
 
-# 📝 Publications 
+  <li><p>ROBOMASTER Planning and Control Special Competition Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROBOMASTER%E8%A7%84%E5%88%92%E6%8E%A7%E5%88%B6%E4%B8%93%E9%A1%B9%E8%B5%9B%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
+  </li>
 
-<div class='anchor' id='-journal-papers'></div>
+  <li><p>18th "Challenge Cup" National College Students' Extracurricular Academic and Scientific Works Competition Runner-up</p>
+  </li>
+</ul>
+</section>
+</section>
 
+
+<section id="-publications" data-level="1">
+
+<h2> 📝 Publications </h2>
+
+<section id="-journal-papers" data-level="2">
 <h2>Journal Papers</h2>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='images/1-450_300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -157,26 +153,12 @@ Advisor: **M. Lu**
 [Robust distributed nash equilibrium seeking subject to communication constraints](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2024.3476195&oq=)
 
 L. Liu, **M. Lu**, S. Wang, F. Deng and J. Chen | 
-<a href="https://github.com/maobinlu/Robot-Experiment/raw/refs/heads/main/Mobile%20robots%20experiment%20for%20a%20connectivity%20control%20game.mp4" class="download-btn" download>Video</a>
-<!-- [[Video]](https://github.com/maobinlu/Robot-Experiment/raw/refs/heads/main/Mobile%20robots%20experiment%20for%20a%20connectivity%20control%20game.mp4) -->
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/Mobile_robots_experiment_for_a_connectivity_control_game.mp4" class="download-btn" download>Video</a>
+
 - This paper addresses the robust distributed Nash equilibrium seeking problem of N -player games under switching networks and communication delays. The salient feature of this work is that the switching communication networks can be uniformly strongly connected, and the communication delays are allowed to be arbitrarily unknown, time-varying and bounded. We illustrate our proposed approach by its application to practical motion control of mobile robots with some experiments. 
 
 </div>
 </div>
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='images/2-450_300.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Distributed state estimation under jointly connected switching networks: Continuous-time linear systems and discrete-time linear systems](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2023.3279210&btnG=)
-
-L. Zhang, **M. Lu**, F. Deng and J. Chen
-
-
-- In this article, we address the distributed state estimation problem for both continuous-time linear time-invariant (LTI) systems and discrete-time LTI systems under switching networks. The observed system is jointly observable, i.e., each agent can only access a part of the measurement output of the observed system and cannot recover the full state by itself. The full state estimation has to be achieved by network communication of neighboring agents. In contrast to existing works, the salient feature of this work is that the developed approach can deal with jointly connected switching networks and thus is more resilient to unreliable communication.  
-
-</div>
-</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automatica 2023</div><img src='images/3-450_300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -184,47 +166,20 @@ L. Zhang, **M. Lu**, F. Deng and J. Chen
 [Output feedback control of uncertain Euler–Lagrange systems by internal model](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2023.111189&btnG=)
 
 X. He, **M. Lu** | 
-<a href="https://github.com/maobinlu/ROS-simuf/raw/refs/heads/main/ROS-Simuf.mp4" class="download-btn" download>Video</a>
-<!-- [[Video]](https://github.com/maobinlu/ROS-simuf/raw/refs/heads/main/ROS-Simuf.mp4) -->
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROS_sim.mp4" class="download-btn" download>Video</a>
+
 - In this paper, we investigate the trajectory tracking control problem of a class of uncertain Euler–Lagrange systems subject to disturbances. We propose a class of dynamic output feedback control laws which depends on the tracking error of the position and that of the velocity. Specifically, by characterizing the reference trajectory and the disturbances with an exosystem, we design an internal model to learn the desired feedforward input such that the reference trajectory can be tracked in spite of unknown system parameters and disturbances. The effectiveness of the proposed approach is illustrated by its application to trajectory tracking control of a three-link cylindrical robot arm. 
 
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2022</div><img src='images/4-450_300.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A sensory feedback based discrete distributed observer to cooperative output regulation](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2022.3162545&btnG=)
-
-**M. Lu**
-
-- In some practical applications, only the sensor network can be established among all agents. To handle such cases, we propose a sensory feedback-based discrete distributed observer, which depends on the relative output of neighboring agents. In contrast to existing results, the design of the discrete distributed observer and cooperative output regulation analysis should be conducted simultaneously. Resorting to the small-gain theorem, we develop a small-gain condition-based approach and a low-gain-based approach, respectively. By these two approaches, we demonstrate that the discrete distributed observer holds and the cooperative output regulation problem of heterogeneous discrete-time linear multiagent systems can be solved. 
-
-</div>
-</div> -->
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2020</div><img src='images/5-450_300.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Consensus of heterogeneous second-order nonlinear uncertain multi-agent systems under switching networks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A10.1109%2FTAC.2020.3019737&btnG=)
-
-**M. Lu**, L. Liu
-
-- The consensus problem of heterogeneous second-order nonlinear uncertain multiagent systems under switching networks is addressed by a distributed control approach. The network communication of all systems is subject to arbitrarily bounded and nonuniform time-varying delays. Based on the internal model principle, a nonlinear distributed dynamic controller is developed to solve the problem. By means of Lyapunov analysis, consensus of heterogeneous second-order nonlinear multiagent systems is achieved in the presence of system uncertainties, disturbances, and uniformly connected topologies as well as arbitrarily bounded and nonuniform time-varying communication delays.
-
-</div>
-</div> -->
-
 <ol>
-<!-- <li><p>L. Liu, <b>M. Lu</b>*, S. Wang, F. Deng and J. Chen, &ldquo;Robust distributed nash equilibrium seeking subject to communication constraints,&rdquo; <i>IEEE Transactions on Automatic Control</i>, <a href="https://ieeexplore.ieee.org/abstract/document/10707180"> </a> DOI:10.1109/TAC.2024.3476195.</p>
-</li> -->
+
 <li><p>Z. Bao, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Attitude tracking of uncertain flexible spacecraft systems subject to unknown external disturbances,&rdquo; <i>arXiv e-prints 2024</i>, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+DOI%3A10.48550%2FarXiv.2403.12542&btnG=">DOI:10.48550/arXiv.2403.12542</a>.</p>
 </li>
 <li><p>L. Zhang, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Distributed state estimation under jointly connected switching networks: Continuous-time linear systems and discrete-time linear systems,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 69, no. 2, pp. 1104-1111, Feb. 2024, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A10.1109%2FTAC.2023.3279210&btnG=">DOI:10.1109/TAC.2023.3279210</a>.</p>
 </li>
-<!-- <li><p>X. He and  <b>M. Lu</b>*, &ldquo;Output feedback control of uncertain Euler–Lagrange systems by internal model,&rdquo; <i>Automatica</i>, vol. 156, Oct. 2023, DOI:10.1016/j.automatica.2023.111189.</p>
-</li> -->
+
 <li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, “Event-triggered cooperative robust output regulation of minimum-phase linear uncertain multi-agent systems,” <i>International Journal of Robust and Nonlinear Control</i>, vol. 34, no. 11, pp. 7390-7405, Jul. 2024, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1002%2Frnc.7349&btnG=">DOI:10.1002/rnc.7349</a>.</p>
 </li>
 <li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Robust output regulation of a class of minimum-phase linear uncertain systems by event-triggered control,&rdquo; <i>IEEE Transactions on Control of Network Systems</i>, vol. 11, no. 2, pp. 989-998, Jun. 2024, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTCNS.2023.3330446&btnG=">DOI:10.1109/TCNS.2023.3330446</a>.</p>
@@ -280,9 +235,9 @@ X. He, **M. Lu** |
 <li><p><b>M. Lu</b> and J. Huang, &ldquo;Robust output regulation problem for linear time-delay systems,&rdquo; <i>International Journal of Control</i>, vol. 88, no. 6, pp. 1236 – 1245, Jan. 2015, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1080%2F00207179.2014.1002111&btnG=">DOI:10.1080/00207179.2014.1002111</a>.</p>
 </li>
 </ol>
+</section>
 
-<div class='anchor' id='-conference-papers'></div>
-
+<section id="-conference-papers" data-level="2">
 <h2>Conference Papers</h2>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCA 2024(Best Paper Award)</div><img src='images/6-450_300.jpg' alt="sym" width="100%"></div></div>
@@ -292,7 +247,6 @@ X. He, **M. Lu** |
 
 L. Liu, **M. Lu**, S. Wang, F. Deng, L. Dou and J. Chen
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - This paper addresses the problem of distributed Nash equilibrium seeking in N-player games for single inte-grator dynamics subject to strongly connected networks and communication delays. We propose a distributed estimator for each player, enabling them to estimate the actions of all players. Next, we design a distributed Nash equilibrium seeking law using the gradient play technique. Then, we analyze the stability of the closed-loop system. By means of designing the Lyapunov-Krasovskii functional, we demonstrate that Nash equilibrium seeking is achieved at an exponential rate, even in the presence of unknown and bounded communication delays. Finally, we provide a simulation example to illustrate the effectiveness of our proposed approach.
 
 </div>
@@ -305,15 +259,13 @@ L. Liu, **M. Lu**, S. Wang, F. Deng, L. Dou and J. Chen
 
 Z. Bao, **M. Lu**, F. Deng
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - This paper investigates the leader-following attitude synchronization problem of multiple flexible spacecraft systems under external disturbances. Compared with existing works, the external disturbance with unbounded energy is compensated.Given that the leader system's state can be conveyed to each follower, we develop a distributed observer for the leader system. Finally, we develop a distributed control law to solve the problem. The effectiveness and robustness of the control law are illustrated by some numerical simulations.
 
 </div>
 </div>
 
 <ol>
-<!-- <li><p>L. Liu, <b>M. Lu*</b>, F. Deng, L. Dou and J. Chen, &ldquo;Distributed Nash Equilibrium Seeking with Communication Delays,&rdquo; in <i>Proceedings of the 2024 IEEE 18th International Conference on Control &amp; Automation (ICCA)</i>, Reykjavík, Iceland, 2024, pp. 6-11, DOI:10.1109/ICCA62789.2024.10591839. <b>(Best Paper Award)</b></p>
-</li> -->
+
 <li><p>Z. Bao, <b>M. Lu</b>* and F. Deng, &ldquo;Attitude Tracking Control of Uncertain Flexible Spacecraft Systems Subject to External Disturbances,&rdquo; in <i>Proceedings of the 2023 IFAC World Congress</i>, Yokohama, Japan, pp. 9239-9244, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.ifacol.2023.10.005&btnG=">DOI:10.1016/j.ifacol.2023.10.005</a>.</p>
 </li>
 <li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Output Regulation of Nonlinear Systems by an Emulation-Based Approach,&rdquo; in <i>Proceedings of the 2023 American Control Conference</i>, San Diego, CA, USA, 2023, pp. 4779-4784, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.23919%2FACC55779.2023.10156239&btnG=">DOI:10.23919/ACC55779.2023.10156239</a>.</p>
@@ -365,8 +317,9 @@ Z. Bao, **M. Lu**, F. Deng
 <li><p>Q. Liu, X. Liu, <b>M. Lu</b> and W. Wu, &ldquo;Dynamic analysis on linear motor drive unit for NC machine tool based on multi-modes motion,&rdquo; in <i>Proceedings of the 2010 International Conference on Computer,Mechatronics, Control and Electronic Engineering</i>, Changchun, China, Aug. 24–26, 2010, pp. 460 – 463, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FCMCE.2010.5610103&btnG=">DOI:10.1109/CMCE.2010.5610103</a>.</p>
 </li>
 </ol>
+</section>
 
-<div class='anchor' id='-pending-patents-and-software'></div>
+<section id='-pending-patents-and-software' data-level="2">
 
 <h2>Pending Patents and Software</h2>
 <h3>Patents</h3>
@@ -425,8 +378,9 @@ Z. Bao, **M. Lu**, F. Deng
 <li><p><b>M. Lu</b>, B. Xie, J. Dong, G. Liu, X. Yang, F. Deng and J. Chen &ldquo;A JSON-based communication system between ROS and ESP32,&rdquo; <i>Software Copyright</i>, China, register No.:2023SR0375420, granted Mar. 2023.</p>
 </li>
 </ol>
+</section>
 
-<div class='anchor' id='-thesis'></div>
+<section id='-thesis' data-level="2">
 
 <h2>Thesis</h2>
 <ol>
@@ -435,17 +389,14 @@ Z. Bao, **M. Lu**, F. Deng
 <li><p><b>M. Lu</b>, &ldquo;Design, Analysis, and Dynamic Optimization of NC Machine Tool,&rdquo; M.S. Thesis, School of Mechanical Engineering and Automation, BUAA, Beijing, China, June, 2011.</p>
 </li>
 </ol>
-<!-- <p><a href="publications.html" class="current">More</a></p> -->
 
-<div class='anchor' id='-teaching'></div>
+</section>
+</section>
 
-# 📖 Teaching
-<!-- - *Nov.2020 - Now*,Professor,Control Science and Engineering,Beijing Institute of Technology.
-- *Sep.2018-Nov.2020*,Associate Professor,Control Science and Engineering,Beijing Institute of Technology.
-- *Aug.2015-Sep.2018*,Postdoctoral Fellow,Automation Engineering,City University of Hong Kong.
-- *Sep.2011-Aug.2015*,Ph.D.,Mechanical and Automation Engineering,The Chinese University of Hong Kong.
-- *Sep.2008-Jul.2011*,M.S.,Mechanical Engineering,Beihang University.
-- *Sep.2004-Jul.2008*,B.S.,Mechanical Engineering,North China University of Technology. -->
+
+<section id='-teaching' data-level="1">
+
+<h1> 📖 Teaching </h1>
 <h2>Undergraduate Courses:</h2>
 <ul>
 <li><p>Operational Research, 32 class hours</p>
@@ -463,23 +414,34 @@ Z. Bao, **M. Lu**, F. Deng
 <li><p>Control and Industrial Automation, 2012-2013 fall</p>
 </li>
 <li><p>Modern Control Systems Analysis and Design, 2012-2013 fall
-
-</p>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br /></p>
 </li>
 </ul>
+</section>
 
 
-<div class='anchor' id='-group'></div>
+<section id='-group' data-level="1">
 
-# 💬 Research Group
-<!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-<!-- <p><a href="https://github.com/maobinlu/GroupMembers">Detailed Information</a></p> -->
+<h1> 💬 Research Group </h1>
 <h2>Current Members</h2>
 <h3>Postdoctoral Fellows</h3>
 <div style="display: flex;">
-
   <!-- 左列 -->
   <div style="width: 50%; padding-right: 10px;"> 
     <ul>
@@ -572,14 +534,13 @@ Z. Bao, **M. Lu**, F. Deng
 </div>
 
 <div class='paper-box'><div class='full-width-box'><div><img src='images/合照.jpg' alt="sym" width="100%"></div></div></div>
+</section>
 
+<section id='-service' data-level="1">
 
-<div class='anchor' id='-service'></div>
+<h1> 💻 Service </h1>
 
-# 💻 Service
-<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-
-<div class='anchor' id='-research-projects-and-grants'></div>
+<section id='-research-projects-and-grants' data-level="2">
 
 <h2>Research Projects and Grants</h2>
 <ul>
@@ -594,8 +555,9 @@ Z. Bao, **M. Lu**, F. Deng
 <li><p>Participant,&ldquo;Cooperative output regulation of nonlinear multi-agent systems and its applications&rdquo;,National Natural Science Foundation of China,2018.01-2021.12</p>
 </li>
 </ul>
+</section>
 
-<div class='anchor' id='-professional-activities'></div>
+<section id='-professional-activities' data-level="2">
 
 <h2>Professional Activities</h2>
 <h3>International Program Committee</h3>
@@ -642,8 +604,9 @@ Z. Bao, **M. Lu**, F. Deng
 <li><p>Journal of Control Theory and Applications</p>
 </li>
 </ul>
+</section>
 
-<div class='anchor' id='-conference-presentations'></div>
+<section id='-conference-presentations' data-level="2">
 
 <h2>Conference Presentations</h2>
 <ul>
@@ -668,3 +631,5 @@ Z. Bao, **M. Lu**, F. Deng
 <li><p>The 32nd Chinese Control Conference, Xi’an, China, July 26–28, 2013 (20 mins)</p>
 </li>
 </ul>
+</section>
+</section>

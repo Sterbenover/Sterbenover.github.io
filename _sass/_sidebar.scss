@@ -76,6 +76,15 @@
   justify-content: flex-start;
   align-content: flex-start;
   align-items: center;
+
+    /* 固定作者信息的位置 */
+  // position: fixed !important;  /* 固定在视口中 */
+  // top: 100px !important;        /* 离顶部 20px */
+  // left: 100px !important;       /* 离左侧 20px */
+  // z-index: 1000;    /* 保证它位于其他内容上方 */
+  // width: 250px;     /* 给它设置一个宽度 */
+  // background-color: #fff;  /* 可选，给背景色 */
+  // box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 可选，阴影效果 */
 }
 
 .author__avatar {
