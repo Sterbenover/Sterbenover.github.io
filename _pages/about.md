@@ -51,7 +51,7 @@ redirect_from:
  
 <h2>Research Awards</h2>
 
-<div class='paper-box'><div class='paper-box-image'><div>  <img src='images/Best Paper Award for ICCA.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div>  <img src='images/Best Paper Award for ICCA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Best Paper Award for ICCA, 2024
 
@@ -64,8 +64,12 @@ Best Theoretical Paper Award for YAC, 2023
 
 Z. Bao, **M. Lu**, F. Deng
 </div>
-</div>
+</div> -->
 <ul>
+  <li><p>Best Paper Award for ICCA, 2024</p>
+  </li>
+  <li><p>Best Theoretical Paper Award for YAC, 2023</p>
+  </li>
   <li><p>Best Paper Award for WCICA, 2018</p>
   </li>
   <li><p>Zhang Si-Ying (CCDC) Outstanding Youth Paper Award, 2018</p>
