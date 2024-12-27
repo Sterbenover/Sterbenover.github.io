@@ -66,7 +66,7 @@ Z. Bao, **M. Lu**, F. Deng
 </div>
 </div> -->
 <ul>
-  <li><p>Best Paper Award for ICCA, 2024</p>
+  <li><p>Best Paper Award for IEEE ICCA, 2024</p>
   </li>
   <li><p>Best Theoretical Paper Award for YAC, 2023</p>
   </li>
