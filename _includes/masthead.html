@@ -105,12 +105,22 @@
             </ul>
           </li>
           {% endif %}
+          {% if link.title == 'Projects' %}
+          <li class="masthead__menu-item masthead__menu-item--has-dropdown">
+            <a href="#-projects" data-level="1">{{ link.title }}</a>
+              <!-- 下拉菜单 -->
+              <ul class="dropdown-menu">
+                <li><a href="#-demos-codes" data-level="2">Demos & Codes</a></li>
+
+              </ul>
+          </li>
+          {% endif %}
           {% if link.title == 'Homepage' %}
           <li class="masthead__menu-item"><a href="#-about-me" data-level="1">{{ link.title }}</a></li>
           {% endif %}
-          {% if link.title == 'About Me' %}
+          <!-- {% if link.title == 'About Me' %}
           <li class="masthead__menu-item"><a href="#-about-me" data-level="1">{{ link.title }}</a></li>
-          {% endif %}
+          {% endif %} -->
           {% if link.title == 'Teaching' %}
           <li class="masthead__menu-item"><a href="#-teaching" data-level="1">{{ link.title }}</a></li>
           {% endif %}

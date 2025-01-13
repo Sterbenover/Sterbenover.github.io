@@ -15,6 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
+<!-- Homepage -->
 <section id="-about-me" data-level="1">
 
   <p>Lu Maobin is a professor at the School of Automation, Beijing Institute of Technology, and a doctoral supervisor. He is a recipient of the Youth Program of the 16th batch of the "Overseas High-level Talent Introduction Program" in China. His research mainly focuses on output regulation of complex dynamic systems, distributed estimation, cooperative control and game theory, and unmanned system control. He has published more than ten first-author papers in top-tier journals in the field of systems and control, such as IEEE Transactions on Automatic Control (IEEE TAC) and Automatica. Currently, he is leading projects such as the National Key Technology R&D Program for Next-generation Artificial Intelligence, the General Program of the National Natural Science Foundation of China, and key projects funded by the Beijing Natural Science Foundation-Xiaomi Innovation Joint Fund.</p>
@@ -43,150 +45,31 @@ redirect_from:
 </section>
 
 
-<section id="-awards" data-level="1">
-
-<h1> 🎖 Awards </h1>
-
-<section id="-research-awards" data-level="2">
- 
-<h2>Research Awards</h2>
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div>  <img src='images/Best Paper Award for ICCA.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-Best Paper Award for ICCA, 2024
-
-L. Liu, **M. Lu**, F. Deng, L. Dou and J. Chen
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div>  <img src='images/Best Theoretical Paper Award for YAC.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-Best Theoretical Paper Award for YAC, 2023
-
-Z. Bao, **M. Lu**, F. Deng
-</div>
-</div> -->
-<ul>
-  <li><p>Best Paper Award for IEEE ICCA, 2024</p>
-  </li>
-  <li><p>Best Theoretical Paper Award for YAC, 2023</p>
-  </li>
-  <li><p>Best Paper Award for WCICA, 2018</p>
-  </li>
-  <li><p>Zhang Si-Ying (CCDC) Outstanding Youth Paper Award, 2018</p>
-  </li>
-  <li><p>Shimemura Young Author Prize for ASCC, 2017</p>
-  </li>
-  <li><p>Hong Kong Reaching Out Award 2014-2015, 2015</p>
-  </li>
-</ul>
-</section>
-
-<section id="-competition-awards" data-level="2">
-
-<h2>Competition Awards</h2>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/“新长江杯”2024智能无人系统挑战赛-飞行避障冠军.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-"New Yangtze River Cup" 2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion
-
-Team Members: J. Cai, W. Kong, Y. Bao, H. Li, Y. Liu and Q. Wang
-
-Advisor: **M. Lu**, C. Wang and F. Deng
-
-<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/“新长江杯”2024智能无人系统挑战赛-空地协同冠军.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-"New Yangtze River Cup" 2024 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Champion
-
-Team Members: Y. Lin, Z. Du, Y. Lu, Y. Bao, F. Wang and Q. Wang
-
-Advisor: **M. Lu**, C. Chen and F. Deng
-
-<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/挑战杯黑科技专项赛冠军.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-2023 "Challenge Cup" Capital University Students' Extracurricular Academic and Scientific Works Provincial Competition Champion
-
-Team Members: B. Xie, G. Liu, J. Dong, G. Sun and X. Yang
-
-Advisor: **M. Lu**
-
-<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4" class="download-btn" download>Video</a>
-
-</div>
-</div>
-
-
-<ul>
-  <li><p>"Zhaoying Cup" 2023 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
-  </li>
-
-  <li><p>"Zhaoying Cup" 2023 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Runner-up  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E4%BA%9A%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
-  </li>
-
-  <li><p>ROBOMASTER Planning and Control Special Competition Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROBOMASTER%E8%A7%84%E5%88%92%E6%8E%A7%E5%88%B6%E4%B8%93%E9%A1%B9%E8%B5%9B%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
-  </li>
-
-  <li><p>18th "Challenge Cup" National College Students' Extracurricular Academic and Scientific Works Competition Runner-up</p>
-  </li>
-</ul>
-</section>
-</section>
-
-
+<!-- Publications -->
 <section id="-publications" data-level="1">
 
 <h2> 📝 Publications </h2>
 
 <section id="-journal-papers" data-level="2">
 <h2>Journal Papers</h2>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='images/1-450_300.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Robust distributed nash equilibrium seeking subject to communication constraints](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2024.3476195&oq=)
-
-L. Liu, **M. Lu**, S. Wang, F. Deng and J. Chen | 
-<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/Mobile_robots_experiment_for_a_connectivity_control_game.mp4" class="download-btn" download>Video</a>
-
-- This paper addresses the robust distributed Nash equilibrium seeking problem of N -player games under switching networks and communication delays. The salient feature of this work is that the switching communication networks can be uniformly strongly connected, and the communication delays are allowed to be arbitrarily unknown, time-varying and bounded. We illustrate our proposed approach by its application to practical motion control of mobile robots with some experiments. 
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automatica 2023</div><img src='images/3-450_300.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Output feedback control of uncertain Euler–Lagrange systems by internal model](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2023.111189&btnG=)
-
-X. He, **M. Lu** | 
-<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROS_sim.mp4" class="download-btn" download>Video</a>
-
-- In this paper, we investigate the trajectory tracking control problem of a class of uncertain Euler–Lagrange systems subject to disturbances. We propose a class of dynamic output feedback control laws which depends on the tracking error of the position and that of the velocity. Specifically, by characterizing the reference trajectory and the disturbances with an exosystem, we design an internal model to learn the desired feedforward input such that the reference trajectory can be tracked in spite of unknown system parameters and disturbances. The effectiveness of the proposed approach is illustrated by its application to trajectory tracking control of a three-link cylindrical robot arm. 
-
-</div>
-</div>
 
 <ol>
 
-<li><p>Z. Bao, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Attitude tracking of uncertain flexible spacecraft systems subject to unknown external disturbances,&rdquo; <i>arXiv e-prints 2024</i>, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+DOI%3A10.48550%2FarXiv.2403.12542&btnG=">DOI:10.48550/arXiv.2403.12542</a>.</p>
+<li><p>Zhang L, Guay M, <b>M. Lu</b>* and S. Wang, &ldquo;Distributed state estimation for discrete-time uncertain linear systems over jointly connected switching networks,&rdquo; <i>Automatica</i>, vol. 173, Mar. 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2024.112079&btnG=">DOI: 10.1016/j.automatica.2024.112079</a>.</p>
+</li>
+<li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;An emulation approach to semi-global robust output regulation for a class of nonlinear uncertain systems,&rdquo; <i>Acta Automatica Sinica</i>, 2024, DOI: 10.1109/JAS.2024.125085.</p>
+</li>
+<li><p>L. Liu, <b>M. Lu</b>*, S. Wang, F. Deng and J. Chen, &ldquo;Robust distributed nash equilibrium seeking subject to communication constraints,&rdquo; <i>IEEE Transactions on Automatic Control</i>, Early Access, Oct. 2024, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2024.3476195&oq=">DOI: 10.1109/TAC.2024.3476195</a>.<b>(Best Paper Award)</b></p>
+</li>
+<li><p>Z. Bao, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Attitude tracking of uncertain flexible spacecraft systems subject to unknown external disturbances,&rdquo; <i>arXiv e-prints 2024</i>, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+DOI%3A10.48550%2FarXiv.2403.12542&btnG=">DOI:10.48550/arXiv.2403.12542</a>.<b>(Best Theoretical Paper Award)</b></p>
 </li>
 <li><p>L. Zhang, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Distributed state estimation under jointly connected switching networks: Continuous-time linear systems and discrete-time linear systems,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 69, no. 2, pp. 1104-1111, Feb. 2024, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A10.1109%2FTAC.2023.3279210&btnG=">DOI:10.1109/TAC.2023.3279210</a>.</p>
 </li>
-
 <li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, “Event-triggered cooperative robust output regulation of minimum-phase linear uncertain multi-agent systems,” <i>International Journal of Robust and Nonlinear Control</i>, vol. 34, no. 11, pp. 7390-7405, Jul. 2024, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1002%2Frnc.7349&btnG=">DOI:10.1002/rnc.7349</a>.</p>
 </li>
 <li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Robust output regulation of a class of minimum-phase linear uncertain systems by event-triggered control,&rdquo; <i>IEEE Transactions on Control of Network Systems</i>, vol. 11, no. 2, pp. 989-998, Jun. 2024, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTCNS.2023.3330446&btnG=">DOI:10.1109/TCNS.2023.3330446</a>.</p>
+</li>
+<li><p>X. He, <b>M. Lu</b>*, S. Wang, F. Deng and J. Chen, &ldquo;Output feedback control of uncertain Euler–Lagrange systems by internal model,&rdquo; <i>Automatica</i>, vol. 156, Oct. 2023, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2023.111189&btnG=">DOI: 10.1016/j.automatica.2023.111189</a>.</p>
 </li>
 <li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Cooperative robust output regulation of linear uncertain multi-agent systems: A dynamic event-triggered approach,&rdquo; <i>International Journal of Robust and Nonlinear Control</i>, vol. 33, no. 18, pp. 11538-11552, 2023, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A10.1002%2Frnc.6957&btnG=">DOI:10.1002/rnc.6957</a>. </p>
 </li>
@@ -244,32 +127,12 @@ X. He, **M. Lu** |
 <section id="-conference-papers" data-level="2">
 <h2>Conference Papers</h2>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCA 2024(Best Paper Award)</div><img src='images/6-450_300.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Distributed Nash Equilibrium Seeking with Communication Delays](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FICCA62789.2024.10591839&btnG=)
-
-L. Liu, **M. Lu**, S. Wang, F. Deng, L. Dou and J. Chen
-
-- This paper addresses the problem of distributed Nash equilibrium seeking in N-player games for single inte-grator dynamics subject to strongly connected networks and communication delays. We propose a distributed estimator for each player, enabling them to estimate the actions of all players. Next, we design a distributed Nash equilibrium seeking law using the gradient play technique. Then, we analyze the stability of the closed-loop system. By means of designing the Lyapunov-Krasovskii functional, we demonstrate that Nash equilibrium seeking is achieved at an exponential rate, even in the presence of unknown and bounded communication delays. Finally, we provide a simulation example to illustrate the effectiveness of our proposed approach.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">YAC 2023(Best Theoretical Paper Award)</div><img src='images/7-450_300.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Leader-Following Attitude Synchronization of Multiple Flexible Spacecraft Systems Subject to External Disturbance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Leader-Following+Attitude+Synchronization+of+Multiple+Flexible+Spacecraft+Systems+Subject+to+External+Disturbance&btnG=)
-
-Z. Bao, **M. Lu**, F. Deng
-
-- This paper investigates the leader-following attitude synchronization problem of multiple flexible spacecraft systems under external disturbances. Compared with existing works, the external disturbance with unbounded energy is compensated.Given that the leader system's state can be conveyed to each follower, we develop a distributed observer for the leader system. Finally, we develop a distributed control law to solve the problem. The effectiveness and robustness of the control law are illustrated by some numerical simulations.
-
-</div>
-</div>
-
 <ol>
 
+<li><p>L. Liu, <b>M. Lu</b>, S. Wang, F. Deng, L. Dou and J. Chen, &ldquo;Distributed Nash Equilibrium Seeking with Communication Delays,&rdquo; in <i>Proceedings of the 2024 IEEE 18th International Conference on Control & Automation</i>, Reykjavík, Iceland, pp. 6-11, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FICCA62789.2024.10591839&btnG=">DOI:10.1109/ICCA62789.2024.10591839</a>.</p>
+</li>
+<li><p>Z. Bao, <b>M. Lu</b>* and F. Deng, &ldquo;Leader-Following Attitude Synchronization of Multiple Flexible Spacecraft Systems Subject to External Disturbance,&rdquo; in <i>Proceedings of the 2023 Youth Academic Annual Conference of Chinese Association of Automation</i>, Hefei, China, pp. 1175-1180, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Leader-Following+Attitude+Synchronization+of+Multiple+Flexible+Spacecraft+Systems+Subject+to+External+Disturbance&btnG=">DOI:10.1109/YAC59482.2023.10401360</a>.</p>
+</li>
 <li><p>Z. Bao, <b>M. Lu</b>* and F. Deng, &ldquo;Attitude Tracking Control of Uncertain Flexible Spacecraft Systems Subject to External Disturbances,&rdquo; in <i>Proceedings of the 2023 IFAC World Congress</i>, Yokohama, Japan, pp. 9239-9244, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.ifacol.2023.10.005&btnG=">DOI:10.1016/j.ifacol.2023.10.005</a>.</p>
 </li>
 <li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Output Regulation of Nonlinear Systems by an Emulation-Based Approach,&rdquo; in <i>Proceedings of the 2023 American Control Conference</i>, San Diego, CA, USA, 2023, pp. 4779-4784, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.23919%2FACC55779.2023.10156239&btnG=">DOI:10.23919/ACC55779.2023.10156239</a>.</p>
@@ -398,6 +261,7 @@ Z. Bao, **M. Lu**, F. Deng
 </section>
 
 
+<!-- Teaching -->
 <section id='-teaching' data-level="1">
 
 <h1> 📖 Teaching </h1>
@@ -440,6 +304,8 @@ Z. Bao, **M. Lu**, F. Deng
 </section>
 
 
+
+<!-- Research Group -->
 <section id='-group' data-level="1">
 
 <h1> 💬 Research Group </h1>
@@ -540,13 +406,85 @@ Z. Bao, **M. Lu**, F. Deng
 <div class='paper-box'><div class='full-width-box'><div><img src='images/合照.jpg' alt="sym" width="100%"></div></div></div>
 </section>
 
+
+
+<!-- Awards -->
+<section id="-awards" data-level="1">
+
+<h1> 🎖 Awards </h1>
+
+<section id="-research-awards" data-level="2">
+ 
+<h2>Research Awards</h2>
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div>  <img src='images/Best Paper Award for ICCA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Best Paper Award for ICCA, 2024
+
+L. Liu, **M. Lu**, F. Deng, L. Dou and J. Chen
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div>  <img src='images/Best Theoretical Paper Award for YAC.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Best Theoretical Paper Award for YAC, 2023
+
+Z. Bao, **M. Lu**, F. Deng
+</div>
+</div> -->
+<ul>
+  <li><p>Best Paper Award for IEEE ICCA, 2024</p>
+  </li>
+  <li><p>Best Theoretical Paper Award for YAC, 2023</p>
+  </li>
+  <li><p>Best Paper Award for WCICA, 2018</p>
+  </li>
+  <li><p>Zhang Si-Ying (CCDC) Outstanding Youth Paper Award, 2018</p>
+  </li>
+  <li><p>Shimemura Young Author Prize for ASCC, 2017</p>
+  </li>
+  <li><p>Hong Kong Reaching Out Award 2014-2015, 2015</p>
+  </li>
+</ul>
+</section>
+
+<section id="-competition-awards" data-level="2">
+
+<h2>Competition Awards</h2>
+
+<ul>
+  <li><p>2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
+  </li>
+
+  <li><p>2024 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
+  </li>
+
+  <li><p>2023 "Challenge Cup" Capital University Students' Extracurricular Academic and Scientific Works Provincial Competition Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4" class="download-btn" download>Video</a> </p>
+  </li>
+
+  <li><p>2023 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
+  </li>
+
+  <li><p>2023 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Runner-up  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E4%BA%9A%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
+  </li>
+
+  <li><p>ROBOMASTER Planning and Control Special Competition Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROBOMASTER%E8%A7%84%E5%88%92%E6%8E%A7%E5%88%B6%E4%B8%93%E9%A1%B9%E8%B5%9B%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
+  </li>
+
+  <li><p>18th "Challenge Cup" National College Students' Extracurricular Academic and Scientific Works Competition Runner-up</p>
+  </li>
+</ul>
+</section>
+</section>
+
+
+<!-- Service -->
 <section id='-service' data-level="1">
 
 <h1> 💻 Service </h1>
 
-<section id='-research-projects-and-grants' data-level="2">
+<section id='-research-grants' data-level="2">
 
-<h2>Research Projects and Grants</h2>
+<h2>Research Grants</h2>
 <ul>
 <li><p>Principal Investigator,&ldquo;Robust cooperative output regulation and its application&rdquo;,National Natural Science Foundation of China,2020.01-2023.12</p>
 </li>
@@ -635,5 +573,122 @@ Z. Bao, **M. Lu**, F. Deng
 <li><p>The 32nd Chinese Control Conference, Xi’an, China, July 26–28, 2013 (20 mins)</p>
 </li>
 </ul>
+</section>
+</section>
+
+
+<section id='-projects' data-level="1">
+<h1> <i class="fa fa-gears" aria-hidden="true"></i> Projects </h1>
+
+<section id='-demos-codes' data-level="2">
+<h2>Demos & Codes</h2>
+
+<h4>Robust distributed nash equilibrium seeking subject to communication constraints</h4>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='images/gif/1-450_300.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<!-- [Robust distributed nash equilibrium seeking subject to communication constraints](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2024.3476195&oq=) -->
+This paper addresses the robust distributed Nash equilibrium seeking problem of N -player games under switching networks and communication delays. The salient feature of this work is that the switching communication networks can be uniformly strongly connected, and the communication delays are allowed to be arbitrarily unknown, time-varying and bounded. We illustrate our proposed approach by its application to practical motion control of mobile robots with some experiments. 
+
+Authors： L. Liu, **M. Lu**, S. Wang, F. Deng and J. Chen
+
+**Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/Mobile_robots_experiment_for_a_connectivity_control_game.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;&nbsp;**Code**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link">Github <img src="https://img.shields.io/github/stars/maobinlu/demos-codes?style=social" alt="Github Stars"> </a>
+
+</div>
+</div>
+
+<h4>Output feedback control of uncertain Euler–Lagrange systems by internal model</h4>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automatica 2023</div><img src='images/gif/2-450_300.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<!-- [Output feedback control of uncertain Euler–Lagrange systems by internal model](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2023.111189&btnG=) -->
+
+In this paper, we investigate the trajectory tracking control problem of a class of uncertain Euler–Lagrange systems subject to disturbances. We propose a class of dynamic output feedback control laws which depends on the tracking error of the position and that of the velocity. Specifically, by characterizing the reference trajectory and the disturbances with an exosystem, we design an internal model to learn the desired feedforward input such that the reference trajectory can be tracked in spite of unknown system parameters and disturbances. The effectiveness of the proposed approach is illustrated by its application to trajectory tracking control of a three-link cylindrical robot arm. 
+
+Authors： X. He, **M. Lu**
+
+**Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROS_sim.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;&nbsp;**Code**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link">Github <img src="https://img.shields.io/github/stars/maobinlu/demos-codes?style=social" alt="Github Stars"> </a>
+ 
+
+</div>
+</div>
+
+<!-- <h4>Distributed Nash Equilibrium Seeking with Communication Delays</h4>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCA 2024(Best Paper Award)</div><img src='images/6-450_300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+
+<!-- [Distributed Nash Equilibrium Seeking with Communication Delays](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FICCA62789.2024.10591839&btnG=) -->
+
+<!-- This paper addresses the problem of distributed Nash equilibrium seeking in N-player games for single inte-grator dynamics subject to strongly connected networks and communication delays. We propose a distributed estimator for each player, enabling them to estimate the actions of all players. Next, we design a distributed Nash equilibrium seeking law using the gradient play technique. Then, we analyze the stability of the closed-loop system. By means of designing the Lyapunov-Krasovskii functional, we demonstrate that Nash equilibrium seeking is achieved at an exponential rate, even in the presence of unknown and bounded communication delays. Finally, we provide a simulation example to illustrate the effectiveness of our proposed approach.
+
+Authors： L. Liu, **M. Lu**, S. Wang, F. Deng, L. Dou and J. Chen -->
+
+<!-- **Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROS_sim.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a> -->
+
+<!-- </div>
+</div>
+
+<h4>Leader-Following Attitude Synchronization of Multiple Flexible Spacecraft Systems Subject to External Disturbance</h4>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">YAC 2023(Best Theoretical Paper Award)</div><img src='images/7-450_300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+
+<!-- [Leader-Following Attitude Synchronization of Multiple Flexible Spacecraft Systems Subject to External Disturbance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Leader-Following+Attitude+Synchronization+of+Multiple+Flexible+Spacecraft+Systems+Subject+to+External+Disturbance&btnG=) -->
+
+<!-- This paper investigates the leader-following attitude synchronization problem of multiple flexible spacecraft systems under external disturbances. Compared with existing works, the external disturbance with unbounded energy is compensated.Given that the leader system's state can be conveyed to each follower, we develop a distributed observer for the leader system. Finally, we develop a distributed control law to solve the problem. The effectiveness and robustness of the control law are illustrated by some numerical simulations.
+
+Authors： Z. Bao, **M. Lu**, F. Deng -->
+
+<!-- **Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROS_sim.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a> -->
+<!-- 
+</div>
+</div> -->
+
+<h4>2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion</h4>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">National First Prize</div><img src='images/gif/3-450_300.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Design a drone capable of fully autonomously completing five obstacle-avoidance tasks in a designated area: navigating through trees, passing through a tunnel, traversing a maze, flying through fixed hoops, and flying through moving hoops. During the flight, tasks must be completed in strict sequential order, but each team can choose how many tasks to execute based on their capabilities.
+
+Team Members: J. Cai, W. Kong, Y. Bao, H. Li, Y. Liu and Q. Wang
+
+Advisor: **M. Lu**, C. Wang and F. Deng
+
+**Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;&nbsp;**Code**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link">Github <img src="https://img.shields.io/github/stars/maobinlu/demos-codes?style=social" alt="Github Stars"> </a>
+
+</div>
+</div>
+
+<h4>2024 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Champion</h4>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">National First Prize</div><img src='images/gif/4-450_300.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Using a ground unmanned vehicle and a rotary-wing drone will compete in a maze enclosed by barriers. Teams must remotely control or autonomously drive the unmanned vehicle to complete a rescue mission while avoiding hazardous areas. The drone assists the vehicle by performing overhead reconnaissance, communication, and guidance. Upon completing the mission, the unmanned vehicle and drone must park in their designated parking space and helipad, respectively. 
+
+Team Members: Y. Lin, Z. Du, Y. Lu, Y. Bao, F. Wang and Q. Wang
+
+Advisor: **M. Lu**, C. Chen and F. Deng
+
+**Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;&nbsp;**Code**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link">Github <img src="https://img.shields.io/github/stars/maobinlu/demos-codes?style=social" alt="Github Stars"> </a>
+
+</div>
+</div>
+
+<h4>2023 "Challenge Cup" Capital University Students' Extracurricular Academic and Scientific Works Provincial Competition Champion</h4>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Provincial Grand Prize</div><img src='images/gif/黑科技.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+To address the design problem of modular and flexible reconfiguration in robotic systems, a robot system capable of modular and flexible reconfiguration was designed across three levels: robotic mechanical structure, robotic circuit connections, and robotic communication system. 
+
+Team Members: B. Xie, G. Liu, J. Dong, G. Sun and X. Yang
+
+Advisor: **M. Lu**
+
+**Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;&nbsp;**Code**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link">Github <img src="https://img.shields.io/github/stars/maobinlu/demos-codes?style=social" alt="Github Stars"> </a>
+
+</div>
+</div>
+
+
+
 </section>
 </section>
