@@ -21,12 +21,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Maobin Lu"
+  name             : "Maobin Lu 吕茂斌"
   avatar           : "images/lmb.png"
-  bio              :                
+  bio              : "Professor"               
   school           : 
   university       : 
-  location         : "5 South Zhongguancun Street, Beijing, 100081, China"
+  location         : "Beijing, China"
   office           : "Room 807,Bldg 6, Zhongguancun Science Park"
   employer         : 
   pubmed           : 
