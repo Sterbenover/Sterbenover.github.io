@@ -18,10 +18,11 @@ redirect_from:
 
 <!-- Homepage -->
 <section id="-about-me" data-level="1">
-
+<h1><i class="fa fa-vcard-o" aria-hidden="true"></i> Biography</h1>
+  
   <p>Maobin Lu is a Professor at the School of Automation, Beijing Institute of Technology. He received his Ph.D. in Mechanical and Automation Engineering from The Chinese University of Hong Kong in 2015. Prior to his current position, he was a Postdoctoral Fellow at City University of Hong Kong from 2015 to 2018. His research interests include nonlinear control, distributed estimation, cooperative control, output regulation, game theory, learning based control, and their applications to robot manipulators, UGVs and UAVs.</p>
   
- <h1><i class="fa fa-vcard-o" aria-hidden="true"></i> Personal Information</h1>
+<!-- <h1><i class="fa fa-vcard-o" aria-hidden="true"></i> Personal Information</h1>
 
  <ul>
    <li><p><i>Nov.2020 - Now</i>, Professor, Control Science and Engineering, Beijing Institute of Technology.</p></li>
@@ -29,7 +30,7 @@ redirect_from:
    <li><p><i>Sep.2011 - Aug.2015</i>, Ph.D., Mechanical and Automation Engineering, The Chinese University of Hong Kong.</p></li>
    <li><p><i>Sep.2008 - Jul.2011</i>, M.S., Mechanical Engineering, Beihang University.</p></li>
    <li><p><i>Sep.2004 - Jul.2008</i>, B.S., Mechanical Engineering, North China University of Technology.</p></li>
- </ul>
+ </ul> -->
 
 
 <h1> <i class="fa fa-handshake-o" aria-hidden="true"></i> Contact </h1>
