@@ -1,4 +1,4 @@
----
+![1](https://github.com/user-attachments/assets/f73931bb-4e20-4c47-ae6f-28c3bcf188fc)![image](https://github.com/user-attachments/assets/be2b3dc6-93db-4010-b42e-b7118508f953)---
 permalink: /
 title: ""
 excerpt: ""
@@ -31,13 +31,16 @@ redirect_from:
    <li><p><i>Sep.2004 - Jul.2008</i>, B.S., Mechanical Engineering, North China University of Technology.</p></li>
  </ul>
 
- <h1> 🔥 Research Interests </h1>
 
+<h1> <i class="fa fa-handshake-o" aria-hidden="true"></i> Contact </h1>
  <ul>
-   <li><p>Networked Control: Robot Systems, Vehicles, Spacecrafts</p>
+   <li><p>Office: Room 807,Bldg 6, Zhongguancun Science Park</p>
    </li>
-   <li><p>Output Regulation: Linear Systems, Nonliear Systems, Time-Delay Systems</p>
+   <li><p>Address: 5 South Zhongguancun Street, Beijing, 100081, China</p>
    </li>
+   <li><p>E-mail: lumaobin@bit.edu.cn / lvmaobin@gmail.com</p>
+   </li>
+   <p>I am currently looking for Postdoc and Ph.D. student for the research in control theory and application. Please send me an email if you are interested.</p>
  </ul>
 
 </section>
