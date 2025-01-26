@@ -21,18 +21,17 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Maobin Lu 吕茂斌"
+  name             : "Maobin Lu"
   avatar           : "images/lmb.png"
-  bio              : "Professor"                 
-  school           : "School of Automation"
-  university       : "Beijing Institute of Technology (BIT)"
-  location         : "Beijing, China"
-  #  "5 South Zhongguancun Street, Beijing, 100081, China"
-  office           : "Room 807,Bldg 6, Zhongguancun Science Park, Beijing Institute of Technology"
+  bio              :                
+  school           : 
+  university       : 
+  location         : "5 South Zhongguancun Street, Beijing, 100081, China"
+  office           : "Room 807,Bldg 6, Zhongguancun Science Park"
   employer         : 
   pubmed           : 
 # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "lumaobin@bit.edu.cn"
+  email            : "lumaobin@bit.edu.cn / lvmaobin@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -41,7 +40,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"sterbenover"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
