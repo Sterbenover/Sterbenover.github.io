@@ -587,12 +587,12 @@ Z. Bao, **M. Lu**, F. Deng
 <section id='-demos-codes' data-level="2">
 <h2>Demos & Codes</h2>
 
-<h4>Robust distributed nash equilibrium seeking subject to communication constraints</h4>
+<h4>Experiment for mobile robot connectivity control game</h4>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='images/gif/1-450_300.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [Robust distributed nash equilibrium seeking subject to communication constraints](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2024.3476195&oq=) -->
-This paper addresses the robust distributed Nash equilibrium seeking problem of N -player games under switching networks and communication delays. The salient feature of this work is that the switching communication networks can be uniformly strongly connected, and the communication delays are allowed to be arbitrarily unknown, time-varying and bounded. We illustrate our proposed approach by its application to practical motion control of mobile robots with some experiments. 
+This experiment illustrates a connectivity control game, which involves motion control of four velocity-actuated mobile robots. Each robot aims to minimize its own cost function, which depends on the positions of all robots. We propose a distributed Nash equilibrium seeking control law. It allows the robots to coordinate their movement via a uniformly strongly connected switching network with unknown bounded time delays. The results shown in the experiment validate our approach: the robots’ positions converge to the Nash equilibrium, and their velocities diminish to zero. 
 
 Authors： L. Liu, **M. Lu**, S. Wang, F. Deng and J. Chen
 
