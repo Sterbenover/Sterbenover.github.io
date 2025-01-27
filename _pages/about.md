@@ -188,7 +188,7 @@ redirect_from:
 </ol>
 </section>
 
-<section id='-pending-patents-and-software' data-level="2">
+<!-- <section id='-pending-patents-and-software' data-level="2">
 
 <h2>Pending Patents and Software</h2>
 <h3>Patents</h3>
@@ -259,7 +259,7 @@ redirect_from:
 </li>
 </ol>
 
-</section>
+</section> -->
 </section>
 
 
