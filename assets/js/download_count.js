@@ -4,9 +4,10 @@ document.addEventListener('DOMContentLoaded', function () {
   var downloadCountElement = document.getElementById('download-count');
 
   // 模拟的下载次数，实际上你可以从后端获取
-  var downloadCount = localStorage.getItem('downloadClickCount') || 0;
+  var downloadCount = parseInt(localStorage.getItem('downloadClickCount') || 0, 10);  // 确保是数字类型
   downloadCountElement.textContent = "下载次数: " + downloadCount;
   if (downloadLink) {
+    downloadCountElement.textContent = "下载次数: " + downloadCount;
     downloadLink.addEventListener('click', function (event) {
       // 发送 Google Analytics 事件
       gtag('event', 'download', {
