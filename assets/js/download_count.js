@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
   // downloadCountElement.textContent = "下载次数: " + downloadCount;
   if (downloadLink) {
     // downloadCountElement.textContent = "下载次数: " + downloadCount;
-    downloadCountElement.textContent = downloadCount;
+    downloadCountElement.textContent = "Download Count: " + downloadCount;
     downloadLink.addEventListener('click', function (event) {
       // 发送 Google Analytics 事件
       gtag('event', 'download', {
@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function () {
       localStorage.setItem('downloadClickCount', downloadCount);
       // 更新页面上的点击次数显示
       // downloadCountElement.textContent = "下载次数: " + downloadCount;
-      downloadCountElement.textContent = downloadCount;
+      downloadCountElement.textContent = "Download Count: " + downloadCount;
     });
   }
 });
