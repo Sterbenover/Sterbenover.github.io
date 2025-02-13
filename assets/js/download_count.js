@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // 模拟的下载次数，实际上你可以从后端获取
   var downloadCount = localStorage.getItem('downloadClickCount') || 0;
-
+  downloadCountElement.textContent = "下载次数: " + downloadCount;
   if (downloadLink) {
     downloadLink.addEventListener('click', function (event) {
       // 发送 Google Analytics 事件
