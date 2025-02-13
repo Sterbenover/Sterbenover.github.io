@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function () {
       // 发送 Google Analytics 事件
       gtag('event', 'download', {
         'event_category': 'file_download',
-        'event_label': 'Drone-Racing-Video',  // 根据实际文件名动态生成
+        'event_label': 'code1',  // 根据实际文件名动态生成
       });
       // 更新下载次数
       downloadCount++;
