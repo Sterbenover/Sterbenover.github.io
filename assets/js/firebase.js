@@ -10,6 +10,7 @@ const firebaseConfig = {
 };
 document.addEventListener('DOMContentLoaded', function () {
     // 初始化 Firebase
+    // ???
     const app = initializeApp(firebaseConfig);
     const analytics = analytics(app);
     const database = database(app);
