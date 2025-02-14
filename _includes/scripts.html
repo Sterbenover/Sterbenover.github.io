@@ -55,7 +55,7 @@
             item_name: linkId, // 使用文件ID作为事件标识
             item_category: 'file_downloads', // 文件下载类别
           });
-        } 
+        }
         else {
           console.error("Firebase Analytics is not initialized correctly");
         }
@@ -64,13 +64,18 @@
         runTransaction(downloadRef, currentCount => {
           return (currentCount) + 1; // 增加下载次数
         });
-
+        console.log("downloadRef after click:", downloadCount);  // 输出下载次数
         // 更新页面上的下载次数（本地显示）
-        get(downloadRef).then(snapshot => {
+        onValue(downloadRef, snapshot => {
           const downloadCount = snapshot.val() || 0;
-          console.log("Download Count after click:", downloadCount);  // 输出下载次数
+          console.log("Current Download Count:", downloadCount);  // 输出下载次数
           countDisplay.textContent = `Download Count: ${downloadCount}`;
         });
+        // get(downloadRef).then(snapshot => {
+        //   const downloadCount = snapshot.val() || 0;
+        //   console.log("Download Count after click:", downloadCount);  // 输出下载次数
+        //   countDisplay.textContent = `Download Count: ${downloadCount}`;
+        // });
       });
     });
   });
