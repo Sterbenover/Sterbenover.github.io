@@ -1,62 +1,8 @@
-<script src="assets/js/main.min.js"></script>
-<script src="assets/js/1.js"></script>
-<script src="assets/js/download_count.js"></script>
-<!-- <script src="assets/js/2.js"></script> -->
-<!-- <script src="assets/js/homepage.js"></script> -->
-<!-- <script src="{{ 'assets/js/script.js' | relative_url }}"></script> -->
-<!-- <script src="assets/js/menus.js"></script> -->
-<!-- <script src="assets/js/submenus.js"></script> -->
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
-<!-- <script src="https://apis.google.com/js/api.js"></script>
-<script>
-  // 加载 Google API 客户端库
-  function initApi() {
-    gapi.client.init({
-      'apiKey': 'AIzaSyDDeljcQmfuu2FbB5lIVyYWJarIlh9Gi0o',  // 使用你的 API 密钥
-      'clientId': '162433300540-0asqbfjha250kfohg3mlts14n18n1ah6.apps.googleusercontent.com',  // 使用你的 OAuth 2.0 客户端 ID
-      'scope': 'https://www.googleapis.com/auth/analytics.readonly',
-    }).then(function () {
-      queryDownloadCount();
-    });
-  }
-
-  // 查询下载次数并更新页面
-  function queryDownloadCount() {
-    const request = {
-      "reportRequests": [
-        {
-          "viewId": "{{ site.google_analytics_id }}",  // 你的 Google Analytics 查看 ID
-          "dateRanges": [
-            {
-              "startDate": "30daysAgo",
-              "endDate": "today"
-            }
-          ],
-          "metrics": [
-            {
-              "expression": "ga:eventCount"
-            }
-          ],
-          "dimensions": [
-            {
-              "name": "ga:eventCategory"
-            },
-            {
-              "name": "ga:eventAction"
-            }
-          ],
-          "filtersExpression": "ga:eventCategory==file_download"
-        }
-      ]
-    };
-
-    gapi.client.analyticsreporting.reports.batchGet(request).then(function(response) {
-      const downloadCount = response.result.reports[0].data.totalsForAllResults['ga:eventCount'];
-      document.getElementById('download-count').textContent = downloadCount + ' 次下载';
-    });
-  }
-
-  // 加载 Google API 客户端
-  gapi.load('client:auth2', initApi);
-</script> -->
+<script src="assets/js/main.min.js"></script>
+<script src="assets/js/1.js"></script>
+<script src="assets/js/google_analytics.js"></script>
+<script src="assets/js/firebase.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore.js"></script>
