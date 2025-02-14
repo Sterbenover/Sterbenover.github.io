@@ -10,9 +10,9 @@ const firebaseConfig = {
 };
 document.addEventListener('DOMContentLoaded', function () {
     // 初始化 Firebase
-    const app = firebase.initializeApp(firebaseConfig);
-    const analytics = firebase.analytics(app);
-    const database = firebase.database(app);
+    const app = initializeApp(firebaseConfig);
+    const analytics = analytics(app);
+    const database = database(app);
 
     // 为每个下载链接添加点击事件
     const downloadLinks = document.querySelectorAll('.gold-link-track');
@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function () {
         // 给下载链接绑定点击事件
         link.addEventListener('click', function () {
             // 向 Firebase Analytics 发送下载事件
-            firebase.analytics().logEvent('download', {
+            analytics().logEvent('download', {
                 item_name: linkId, // 使用文件ID作为事件标识
                 item_category: 'file_downloads', // 文件下载类别
             });
