@@ -10,7 +10,7 @@
 <script type="module">
   import { initializeApp } from 'https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js';
   import { getAnalytics, logEvent } from 'https://www.gstatic.com/firebasejs/9.6.1/firebase-analytics.js';
-  import { getDatabase, ref, get, set, update, child, runTransaction } from 'https://www.gstatic.com/firebasejs/9.6.1/firebase-database.js';
+  import { getDatabase, ref, get, set, update, child, runTransaction, onValue } from 'https://www.gstatic.com/firebasejs/9.6.1/firebase-database.js';
 
   // Firebase 配置
   const firebaseConfig = {
@@ -64,7 +64,7 @@
         runTransaction(downloadRef, currentCount => {
           return (currentCount) + 1; // 增加下载次数
         });
-        console.log("downloadRef after click:", downloadRef);  // 输出下载次数
+        // console.log("downloadRef after click:", downloadRef);  // 输出下载次数
         // 更新页面上的下载次数（本地显示）
         onValue(downloadRef, snapshot => {
           const downloadCount = snapshot.val() || 0;
