@@ -68,7 +68,6 @@
         // 更新页面上的下载次数（本地显示）
         get(downloadRef).then(snapshot => {
           const downloadCount = snapshot.val() || 0;
-          print(downloadCount);
           countDisplay.textContent = `Download Count: ${downloadCount}`;
         });
       });
