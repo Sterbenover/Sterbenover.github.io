@@ -54,7 +54,7 @@
 
         // 更新下载次数到 Firebase
         const downloadRef = ref(database, 'downloads/' + linkId);
-        transaction(downloadRef, currentCount => {
+        runTransaction(downloadRef, currentCount => {
           return (currentCount || 0) + 1; // 增加下载次数
         });
 
