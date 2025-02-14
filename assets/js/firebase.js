@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     downloadLinks.forEach(link => {
         const linkId = link.getAttribute('data-link-id');
-        const countDisplay = document.getElementById(`download-count-${linkId}`); // 显示下载次数的元素
+        const countDisplay = document.getElementById(`count-${linkId}`); // 显示下载次数的元素
 
         // 从 Firebase 获取下载次数并更新页面显示
         database.ref('downloads/' + linkId).once('value').then(snapshot => {
