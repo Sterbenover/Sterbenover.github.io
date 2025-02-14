@@ -10,7 +10,7 @@
 <!-- 引入 Firebase 的核心库 -->
 <script type="module">
   import { initializeApp } from 'https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js';
-  import { getAnalytics } from 'https://www.gstatic.com/firebasejs/9.6.1/firebase-analytics.js';
+  import { getAnalytics, logEvent } from 'https://www.gstatic.com/firebasejs/9.6.1/firebase-analytics.js';
   import { getDatabase, ref, get, set, update, child, runTransaction } from 'https://www.gstatic.com/firebasejs/9.6.1/firebase-database.js';
 
   // Firebase 配置
@@ -48,7 +48,7 @@
       // 给下载链接绑定点击事件
       link.addEventListener('click', function () {
         // 向 Firebase Analytics 发送下载事件
-        analytics.logEvent('download', {
+        logEvent('download', {
           item_name: linkId, // 使用文件ID作为事件标识
           item_category: 'file_downloads', // 文件下载类别
         });
