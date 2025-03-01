@@ -58,7 +58,7 @@ redirect_from:
 <ol>
 
 
-<li><p>L. Liu, <b>M. Lu</b>*, S. Wang, F. Deng and J. Chen, &ldquo;Robust distributed nash equilibrium seeking subject to communication constraints,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 70, no. 3, pp. 1941-1948, Mar. 2025, <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A%C2%A010.1109%2FTAC.2024.3476195&btnG=">DOI: 10.1109/TAC.2024.3476195</a>.</p>
+<li><p>L. Liu, <b>M. Lu</b>*, S. Wang, F. Deng and J. Chen, &ldquo;Robust distributed nash equilibrium seeking subject to communication constraints,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 70, no. 3, pp. 1941-1948, Mar. 2025, <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A%C2%A010.1109%2FTAC.2024.3476195&btnG=">DOI: 10.1109/TAC.2024.3476195</a>.<b>(Best Paper Award)</b></p>
 </li>
 <li><p>L. Zhang, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Cooperative output regulation subject to uncertain exosystems and its application: a fully distributed adaptive observer approach,&rdquo; <i>IEEE Transactions on Control of Network Systems</i>, Feb. 2025 , <a href="https://cn.bing.com/search?pglt=297&q=DOI%3A+10.1109%2FTCNS.2025.3543667&cvid=1fa4c9d6e0cf4f55ab021521da944cca&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQRRg60gEHOTU5ajBqMagCALACAA&FORM=ANNTA1&adppc=EDGEESS&PC=U531">DOI: 10.1109/TCNS.2025.3543667</a>.</p>
 </li>
@@ -67,8 +67,6 @@ redirect_from:
 <li><p>L. Zhang, M. Guay, <b>M. Lu</b>* and S. Wang, &ldquo;Distributed state estimation for discrete-time uncertain linear systems over jointly connected switching networks,&rdquo; <i>Automatica</i>, vol. 173, Mar. 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2024.112079&btnG=">DOI: 10.1016/j.automatica.2024.112079</a>.</p>
 </li>
 <li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;An emulation approach to semi-global robust output regulation for a class of nonlinear uncertain systems,&rdquo; <i>Acta Automatica Sinica</i>, 2024, DOI: 10.1109/JAS.2024.125085.</p>
-</li>
-<li><p>L. Liu, <b>M. Lu</b>*, S. Wang, F. Deng and J. Chen, &ldquo;Robust distributed nash equilibrium seeking subject to communication constraints,&rdquo; <i>IEEE Transactions on Automatic Control</i>, Early Access, Oct. 2024, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2024.3476195&oq=">DOI: 10.1109/TAC.2024.3476195</a>.<b>(Best Paper Award)</b></p>
 </li>
 <li><p>Z. Bao, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Attitude tracking of uncertain flexible spacecraft systems subject to unknown external disturbances,&rdquo; <i>arXiv e-prints 2024</i>, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+DOI%3A10.48550%2FarXiv.2403.12542&btnG=">DOI:10.48550/arXiv.2403.12542</a>.<b>(Best Theoretical Paper Award)</b></p>
 </li>
