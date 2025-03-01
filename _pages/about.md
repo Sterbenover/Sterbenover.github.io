@@ -57,6 +57,9 @@ redirect_from:
 
 <ol>
 
+
+<li><p>L. Liu, <b>M. Lu</b>*, S. Wang, F. Deng and J. Chen, &ldquo;Robust distributed nash equilibrium seeking subject to communication constraints,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 70, no. 3, pp. 1941-1948, Mar. 2025, <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A%C2%A010.1109%2FTAC.2024.3476195&btnG=">DOI: 10.1109/TAC.2024.3476195</a>.</p>
+</li>
 <li><p>L. Zhang, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Cooperative output regulation subject to uncertain exosystems and its application: a fully distributed adaptive observer approach,&rdquo; <i>IEEE Transactions on Control of Network Systems</i>, Feb. 2025 , <a href="https://cn.bing.com/search?pglt=297&q=DOI%3A+10.1109%2FTCNS.2025.3543667&cvid=1fa4c9d6e0cf4f55ab021521da944cca&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQRRg60gEHOTU5ajBqMagCALACAA&FORM=ANNTA1&adppc=EDGEESS&PC=U531">DOI: 10.1109/TCNS.2025.3543667</a>.</p>
 </li>
 <li><p>K. Xie, M. Guay, <b>M. Lu</b>*, S. Wang and F. Deng, &ldquo;Optimal output feedback learning control for continuous-time linear quadratic regulation,&rdquo; <i>IEEE Transactions on Automatic Control</i>, Jan. 2025, <a href="https://scholar.google.hk/scholar?hl=zh-TW&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2025.3532182&btnG=">DOI: 10.1109/TAC.2025.3532182</a>.</p>
