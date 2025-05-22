@@ -18,11 +18,12 @@ redirect_from:
 
 <!-- Homepage -->
 <section id="-about-me" data-level="1">
-<h1><i class="fa fa-vcard-o" aria-hidden="true"></i> Biography</h1>
-  
-  <p>Maobin Lu is a Professor at the School of Automation, Beijing Institute of Technology. He received his Ph.D. in Mechanical and Automation Engineering from The Chinese University of Hong Kong in 2015. Prior to his current position, he was a Postdoctoral Fellow at City University of Hong Kong from 2015 to 2018. His research interests include nonlinear control, distributed estimation, cooperative control, output regulation, game theory, learning based control, and their applications to robot manipulators, UGVs and UAVs.</p>
-  
-<!-- <h1><i class="fa fa-vcard-o" aria-hidden="true"></i> Personal Information</h1>
+
+  <p>Lu Maobin is a professor at the School of Automation, Beijing Institute of Technology, and a doctoral supervisor. He is a recipient of the Youth Program of the 16th batch of the "Overseas High-level Talent Introduction Program" in China. His research mainly focuses on output regulation of complex dynamic systems, distributed estimation, cooperative control and game theory, and unmanned system control. He has published more than ten first-author papers in top-tier journals in the field of systems and control, such as IEEE Transactions on Automatic Control (IEEE TAC) and Automatica. Currently, he is leading projects such as the National Key Technology R&D Program for Next-generation Artificial Intelligence, the General Program of the National Natural Science Foundation of China, and key projects funded by the Beijing Natural Science Foundation-Xiaomi Innovation Joint Fund.</p>
+  <p>His research achievements have won several prestigious awards, including the IEEE ICCA Best Paper Award, the Zhang Siying (CCDC) Outstanding Young Paper Award at the Chinese Control and Decision Conference, the Shimemura Young Author Award at the Asian Control Conference, and the Best Paper Award at the World Congress on Intelligent Control and Automation (WCICA). He has also mentored students who have won multiple innovation and technology competition awards, such as the championship in the UAV Intelligent Perception Technology Competition, the grand prize in the International Smart Unmanned Systems Application Challenge (Flight Obstacle Avoidance) and the first prize in the Air-ground Coordination competition, the grand prize in the Capital Challenge Cup, and the runner-up in the RoboMaster Mech Master AI Challenge Elite Competition.</p>
+  <p>He currently serves as the Deputy Secretary-General of the Youth Work Committee of the Chinese Association of Automation and as a member of the Committee on Autonomous and Unmanned Systems of the Chinese Association for Artificial Intelligence.</p>
+
+ <h1><i class="fa fa-vcard-o" aria-hidden="true"></i> Personal Information</h1>
 
  <ul>
    <li><p><i>Nov.2020 - Now</i>, Professor, Control Science and Engineering, Beijing Institute of Technology.</p></li>
@@ -30,18 +31,15 @@ redirect_from:
    <li><p><i>Sep.2011 - Aug.2015</i>, Ph.D., Mechanical and Automation Engineering, The Chinese University of Hong Kong.</p></li>
    <li><p><i>Sep.2008 - Jul.2011</i>, M.S., Mechanical Engineering, Beihang University.</p></li>
    <li><p><i>Sep.2004 - Jul.2008</i>, B.S., Mechanical Engineering, North China University of Technology.</p></li>
- </ul> -->
+ </ul>
 
+ <h1> 🔥 Research Interests </h1>
 
-<h1> <i class="fa fa-handshake-o" aria-hidden="true"></i> Contact </h1>
  <ul>
-   <li><p>Office: Room 807,Bldg 6, Zhongguancun Science Park</p>
+   <li><p>Networked Control: Robot Systems, Vehicles, Spacecrafts</p>
    </li>
-   <li><p>Address: 5 South Zhongguancun Street, Beijing, 100081, China</p>
+   <li><p>Output Regulation: Linear Systems, Nonliear Systems, Time-Delay Systems</p>
    </li>
-   <li><p>E-mail: lumaobin@bit.edu.cn / lvmaobin@gmail.com</p>
-   </li>
-   <p>I am currently looking for Postdoc and Ph.D. student for the research in control theory and application. Please send me an email if you are interested.</p>
  </ul>
 
 </section>
@@ -57,18 +55,13 @@ redirect_from:
 
 <ol>
 
-
-<li><p>L. Liu, <b>M. Lu</b>*, S. Wang, F. Deng and J. Chen, &ldquo;Robust distributed nash equilibrium seeking subject to communication constraints,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 70, no. 3, pp. 1941-1948, Mar. 2025, <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A%C2%A010.1109%2FTAC.2024.3476195&btnG=">DOI: 10.1109/TAC.2024.3476195</a>.</p>
-</li>
-<li><p>L. Zhang, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Cooperative output regulation subject to uncertain exosystems and its application: a fully distributed adaptive observer approach,&rdquo; <i>IEEE Transactions on Control of Network Systems</i>, Feb. 2025 , <a href="https://cn.bing.com/search?pglt=297&q=DOI%3A+10.1109%2FTCNS.2025.3543667&cvid=1fa4c9d6e0cf4f55ab021521da944cca&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQRRg60gEHOTU5ajBqMagCALACAA&FORM=ANNTA1&adppc=EDGEESS&PC=U531">DOI: 10.1109/TCNS.2025.3543667</a>.</p>
-</li>
-<li><p>K. Xie, M. Guay, <b>M. Lu</b>*, S. Wang and F. Deng, &ldquo;Optimal output feedback learning control for continuous-time linear quadratic regulation,&rdquo; <i>IEEE Transactions on Automatic Control</i>, Jan. 2025, <a href="https://scholar.google.hk/scholar?hl=zh-TW&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2025.3532182&btnG=">DOI: 10.1109/TAC.2025.3532182</a>.</p>
-</li>
-<li><p>L. Zhang, M. Guay, <b>M. Lu</b>* and S. Wang, &ldquo;Distributed state estimation for discrete-time uncertain linear systems over jointly connected switching networks,&rdquo; <i>Automatica</i>, vol. 173, Mar. 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2024.112079&btnG=">DOI: 10.1016/j.automatica.2024.112079</a>.</p>
+<li><p>Zhang L, Guay M, <b>M. Lu</b>* and S. Wang, &ldquo;Distributed state estimation for discrete-time uncertain linear systems over jointly connected switching networks,&rdquo; <i>Automatica</i>, vol. 173, Mar. 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2024.112079&btnG=">DOI: 10.1016/j.automatica.2024.112079</a>.</p>
 </li>
 <li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;An emulation approach to semi-global robust output regulation for a class of nonlinear uncertain systems,&rdquo; <i>Acta Automatica Sinica</i>, 2024, DOI: 10.1109/JAS.2024.125085.</p>
 </li>
-<li><p>Z. Bao, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Attitude tracking of uncertain flexible spacecraft systems subject to unknown external disturbances,&rdquo; <i>arXiv e-prints 2024</i>, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+DOI%3A10.48550%2FarXiv.2403.12542&btnG=">DOI:10.48550/arXiv.2403.12542</a>.</p>
+<li><p>L. Liu, <b>M. Lu</b>*, S. Wang, F. Deng and J. Chen, &ldquo;Robust distributed nash equilibrium seeking subject to communication constraints,&rdquo; <i>IEEE Transactions on Automatic Control</i>, Early Access, Oct. 2024, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2024.3476195&oq=">DOI: 10.1109/TAC.2024.3476195</a>.<b>(Best Paper Award)</b></p>
+</li>
+<li><p>Z. Bao, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Attitude tracking of uncertain flexible spacecraft systems subject to unknown external disturbances,&rdquo; <i>arXiv e-prints 2024</i>, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+DOI%3A10.48550%2FarXiv.2403.12542&btnG=">DOI:10.48550/arXiv.2403.12542</a>.<b>(Best Theoretical Paper Award)</b></p>
 </li>
 <li><p>L. Zhang, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Distributed state estimation under jointly connected switching networks: Continuous-time linear systems and discrete-time linear systems,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 69, no. 2, pp. 1104-1111, Feb. 2024, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A10.1109%2FTAC.2023.3279210&btnG=">DOI:10.1109/TAC.2023.3279210</a>.</p>
 </li>
@@ -193,7 +186,7 @@ redirect_from:
 </ol>
 </section>
 
-<!-- <section id='-pending-patents-and-software' data-level="2">
+<section id='-pending-patents-and-software' data-level="2">
 
 <h2>Pending Patents and Software</h2>
 <h3>Patents</h3>
@@ -264,7 +257,7 @@ redirect_from:
 </li>
 </ol>
 
-</section> -->
+</section>
 </section>
 
 
@@ -459,13 +452,16 @@ Z. Bao, **M. Lu**, F. Deng
 <h2>Competition Awards</h2>
 
 <ul>
-  <li><p>2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
+  <li><p>IROS 2024 Cooperative Aerial Robots Inspection Challenge Champion  <a href="https://github.com/maobinlu/demos-codes/raw/refs/heads/main/test/IROS%202024%20Cooperative%20Aerial%20Robots%20Inspection%20Challenge%20%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
+  </li>
+  
+  <li><p>2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  <a href="https://github.com/maobinlu/demos-codes/raw/refs/heads/main/test/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
   </li>
 
-  <li><p>2024 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
+  <li><p>2024 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Champion  <a href="https://github.com/maobinlu/demos-codes/raw/refs/heads/main/test/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
   </li>
 
-  <li><p>2023 "Challenge Cup" Capital University Students' Extracurricular Academic and Scientific Works Provincial Competition Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4" class="download-btn" download>Video</a> </p>
+  <li><p>2023 "Challenge Cup" Capital University Students' Extracurricular Academic and Scientific Works Provincial Competition Champion  <a href="https://github.com/maobinlu/demos-codes/raw/refs/heads/main/test/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4" class="download-btn" download>Video</a> </p>
   </li>
 
   <li><p>2023 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
@@ -590,17 +586,16 @@ Z. Bao, **M. Lu**, F. Deng
 <section id='-demos-codes' data-level="2">
 <h2>Demos & Codes</h2>
 
-<h4>Experiment for mobile robot connectivity control game</h4>
+<h4>Robust distributed nash equilibrium seeking subject to communication constraints</h4>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='images/gif/1-450_300.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [Robust distributed nash equilibrium seeking subject to communication constraints](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2024.3476195&oq=) -->
-This experiment illustrates a connectivity control game, which involves motion control of four velocity-actuated mobile robots. Each robot aims to minimize its own cost function, which depends on the positions of all robots. We propose a distributed Nash equilibrium seeking control law. It allows the robots to coordinate their movement via a uniformly strongly connected switching network with unknown bounded time delays. The results shown in the experiment validate our approach: the robots’ positions converge to the Nash equilibrium, and their velocities diminish to zero. 
+This paper addresses the robust distributed Nash equilibrium seeking problem of N -player games under switching networks and communication delays. The salient feature of this work is that the switching communication networks can be uniformly strongly connected, and the communication delays are allowed to be arbitrarily unknown, time-varying and bounded. We illustrate our proposed approach by its application to practical motion control of mobile robots with some experiments. 
 
 Authors： L. Liu, **M. Lu**, S. Wang, F. Deng and J. Chen
 
-**Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/Mobile_robots_experiment_for_a_connectivity_control_game.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Code**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link-track" data-link-id="link1">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;
-<span id="count-link1"><b>Download Count: </b></span>
+**Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/Mobile_robots_experiment_for_a_connectivity_control_game.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;&nbsp;**Code**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link">Github <img src="https://img.shields.io/github/stars/maobinlu/demos-codes?style=social" alt="Github Stars"> </a>
 
 </div>
 </div>
@@ -615,8 +610,7 @@ In this paper, we investigate the trajectory tracking control problem of a class
 
 Authors： X. He, **M. Lu**
 
-**Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROS_sim.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Code**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link-track" data-link-id="link2">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;
-<span id="count-link2"><b>Download Count: </b></span>
+**Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROS_sim.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;&nbsp;**Code**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link">Github <img src="https://img.shields.io/github/stars/maobinlu/demos-codes?style=social" alt="Github Stars"> </a>
  
 
 </div>
@@ -662,8 +656,7 @@ Team Members: J. Cai, W. Kong, Y. Bao, H. Li, Y. Liu and Q. Wang
 
 Advisor: **M. Lu**, C. Wang and F. Deng
 
-**Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Code**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link-track" data-link-id="link3">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;
-<span id="count-link3"><b>Download Count: </b></span>
+**Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;&nbsp;**Code**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link">Github <img src="https://img.shields.io/github/stars/maobinlu/demos-codes?style=social" alt="Github Stars"> </a>
 
 </div>
 </div>
@@ -678,8 +671,7 @@ Team Members: Y. Lin, Z. Du, Y. Lu, Y. Bao, F. Wang and Q. Wang
 
 Advisor: **M. Lu**, C. Chen and F. Deng
 
-**Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Code**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link-track" data-link-id="link4">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;
-<span id="count-link4"><b>Download Count: </b></span>
+**Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;&nbsp;**Code**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link">Github <img src="https://img.shields.io/github/stars/maobinlu/demos-codes?style=social" alt="Github Stars"> </a>
 
 </div>
 </div>
@@ -694,9 +686,7 @@ Team Members: B. Xie, G. Liu, J. Dong, G. Sun and X. Yang
 
 Advisor: **M. Lu**
 
-**Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Code**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link-track" data-link-id="link5">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;
-<span id="count-link5"><b>Download Count: </b></span> 
-<!-- <img src="https://img.shields.io/github/stars/maobinlu/demos-codes?style=social" alt="Github Stars"> </a> -->
+**Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;&nbsp;**Code**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link">Github <img src="https://img.shields.io/github/stars/maobinlu/demos-codes?style=social" alt="Github Stars"> </a>
 
 </div>
 </div>
