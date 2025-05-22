@@ -588,7 +588,7 @@ Z. Bao, **M. Lu**, F. Deng
 <h1> <i class="fa fa-gears" aria-hidden="true"></i> Projects </h1>
 
 <section id='-demos-codes' data-level="2">
-<h2>Demos/Codes & Model/Algorithm library</h2>
+<h2>Demos & Codes & Model/Algorithm library</h2>
 
 <h4>IROS 2024 Cooperative Aerial Robots Inspection Challenge Competition</h4>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='images/gif/8-450_300.gif' alt="sym" width="100%"></div></div>
